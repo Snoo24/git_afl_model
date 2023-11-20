@@ -29,7 +29,7 @@
         let cur_x_pos = 80;
         
         for (let ii = 0; ii < 18; ii++) {
-          const width = round(positions.ii);
+          const width = round(positions.ii * 10);
 
           // Create a div element for the rectangle
           const rectangleElement = document.createElement('div');
@@ -41,7 +41,7 @@
   
           // Set the position of the rectangle (you can adjust this based on your layout)
           rectangleElement.style.left = `${cur_x_pos}px`;
-          rectangleElement.style.top = '{100 * (i + 1)}px';
+          rectangleElement.style.top = '{10 * (i + 1)}px';
 
           cur_x_pos += width
   
