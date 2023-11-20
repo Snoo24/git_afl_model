@@ -1,18 +1,49 @@
 <html>
-  <head>
-    <link rel="stylesheet" href="style.css">
-  </head>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
   
-  <body>
-    <p>asdfg</p>
-    <img src="Adelaide.jpg" alt="Italian Trulli"></img>
-    <div class="dropdown">
-      <button class="dropbtn">Dropdown</button>
-      <div class="dropdown-content">
-        <a href="#">Link 1</a>
-        <a href="#">Link 2</a>
-        <a href="#">Link 3</a>
-      </div>
-    </div> 
-  </body>
+<body>
+  <img src="Adelaide.jpg" alt="Italian Trulli"></img>
+  <div class="dropdown">
+    <button class="dropbtn">Dropdown</button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </div> 
+  
+  <script>
+  // Load JSON data (assuming it's in the same directory as your HTML file)
+  fetch('your_json_file.json')
+    .then(response => response.json())
+    .then(data => {
+      // Access the rectangles array from the JSON data
+      const rectangles = data.rectangles;
+
+      // Loop through each rectangle and create a corresponding HTML element
+      rectangles.forEach((rectangle, index) => {
+        const { width, height } = rectangle;
+
+        // Create a div element for the rectangle
+        const rectangleElement = document.createElement('div');
+        rectangleElement.className = 'rectangle';
+        
+        // Set the width and height of the rectangle
+        rectangleElement.style.width = `${width}px`;
+        rectangleElement.style.height = `${height}px`;
+
+        // Set the position of the rectangle (you can adjust this based on your layout)
+        rectangleElement.style.left = `${index * 100}px`;
+        rectangleElement.style.top = '50px';
+
+        // Append the rectangle to the body
+        document.body.appendChild(rectangleElement);
+      });
+    })
+    .catch(error => console.error('Error loading JSON file:', error));
+  </script>
+  
+</body>
 </html>
