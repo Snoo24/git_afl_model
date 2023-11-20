@@ -16,31 +16,59 @@
   
   <script>
   // Load JSON data (assuming it's in the same directory as your HTML file)
-  fetch('your_json_file.json')
+  fetch('output2024.json')
     .then(response => response.json())
     .then(data => {
-      // Access the rectangles array from the JSON data
-      const rectangles = data.rectangles;
+
+      const sim = data.simulation;
 
       // Loop through each rectangle and create a corresponding HTML element
-      rectangles.forEach((rectangle, index) => {
-        const { width, height } = rectangle;
-
-        // Create a div element for the rectangle
-        const rectangleElement = document.createElement('div');
-        rectangleElement.className = 'rectangle';
+      for (let i = 0; i < 18; i++)  {
+        const team_sim = sim.i;
+        const positions = team_sim.positions;
+        let cur_x_pos = 800;
         
-        // Set the width and height of the rectangle
-        rectangleElement.style.width = `${width}px`;
-        rectangleElement.style.height = `${height}px`;
+        for (let ii = 0; ii < 18; ii++) {
+          const width = round(positions.ii * 10);
 
-        // Set the position of the rectangle (you can adjust this based on your layout)
-        rectangleElement.style.left = `${index * 100}px`;
-        rectangleElement.style.top = '50px';
+          // Create a div element for the rectangle
+          const rectangleElement = document.createElement('div');
+          rectangleElement.className = 'rectangle';
+          
+          // Set the width and height of the rectangle
+          rectangleElement.style.width = `${width}px`;
+          rectangleElement.style.height = `$60px`;
+  
+          // Set the position of the rectangle (you can adjust this based on your layout)
+          rectangleElement.style.left = `${cur_x_pos}px`;
+          rectangleElement.style.top = '{100 * (i + 1)}px';
 
-        // Append the rectangle to the body
-        document.body.appendChild(rectangleElement);
-      });
+          cur_x_pos += width
+  
+          // Add a tooltip element for text
+          const tooltipElement = document.createElement('div');
+          tooltipElement.className = 'tooltip';
+          tooltipElement.textContent = 'Your Tooltip Text'; // Change this text as needed
+          rectangleElement.appendChild(tooltipElement);
+  
+          // Add event listener for mouseover
+          rectangleElement.addEventListener('mouseover', (event) => {
+            // Show tooltip at the mouse position
+            tooltipElement.style.display = 'block';
+            tooltipElement.style.left = `${event.clientX}px`;
+            tooltipElement.style.top = `${event.clientY}px`;
+          });
+  
+          // Add event listener for mouseout
+          rectangleElement.addEventListener('mouseout', () => {
+            // Hide tooltip when mouse leaves the rectangle
+            tooltipElement.style.display = 'none';
+          });
+  
+          // Append the rectangle to the body
+          document.body.appendChild(rectangleElement);
+        }
+      };
     })
     .catch(error => console.error('Error loading JSON file:', error));
   </script>
