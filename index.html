@@ -80,8 +80,8 @@
             tooltipElement.style.top = `${event.offsetY + 15}px`;
             
             const bounding_box = tooltipElement.getBoundingClientRect();
-            const x_dist_oob = window.innerWidth - tooltip_rect.x - tooltip_rect.width;
-            const y_dist_oob = window.innerHeight - tooltip_rect.y - tooltip_rect.height;
+            const x_dist_oob = window.innerWidth - bounding_box.x - bounding_box.width;
+            const y_dist_oob = window.innerHeight - bounding_box.y - bounding_box.height;
   
             if (x_dist_oob > 0) { tooltipElement.left += x_dist_oob; }
             if (y_dist_oob > 0) { tooltipElement.top += y_dist_oob; }
