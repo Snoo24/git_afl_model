@@ -88,6 +88,7 @@
             const y_dist_oob = bounding_box.y + bounding_box.height - window.innerHeight;
 
             console.log(tooltipElement.style.left);
+            console.log(add_px(tooltipElement.style.left, -x_dist_oob))
             
             if (x_dist_oob > 0) { tooltipElement.style.left = add_px(tooltipElement.style.left, -x_dist_oob); }
             if (y_dist_oob > 0) { tooltipElement.style.top = add_px(tooltipElement.style.top, -y_dist_oob); }
