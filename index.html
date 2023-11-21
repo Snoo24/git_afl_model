@@ -69,7 +69,7 @@
           const tooltipElement = document.createElement('div');
           tooltipElement.className = 'tooltip';
           tooltipElement.textContent = 'Your Tooltip Text'; // Change this text as needed
-          rectangleElement.appendChild(tooltipElement);
+          rectangleElement.appendChild(tooltipElement.getBoundingClientRect());
   
           // Add event listener for mouseover
           rectangleElement.addEventListener('mouseover', (event) => {
