@@ -38,6 +38,10 @@
 
       const sim = data.simulation;
 
+      const textElement = document.createElement('div');
+      textElement.textContent = 'here'; // Use the 'text' property from the JSON, if available
+      document.body.appendChild(textElement);
+      
       // Loop through each rectangle and create a corresponding HTML element
       for (let i = 0; i < 18; i++)  {
         const team_sim = sim.i;
