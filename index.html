@@ -83,8 +83,9 @@
             tooltipElement.style.left = `${event.offsetX + 15}px`; // Use pageX to get the absolute position
             tooltipElement.style.top = `${event.offsetY + 15}px`;
             
-            const x_dist_oob = tooltipElement.style.right - window.innerWidth;
-            const y_dist_oob = tooltipElement.style.bottom - window.innerHeight;
+            const bounding_box = tooltipElement.getBoundingClientRect();
+            const x_dist_oob = bounding_box.x + bounding_box.width - window.innerWidth;
+            const y_dist_oob = bounding_box.y + bounding_box.height - window.innerHeight;
 
             console.log(x_dist_oob);
             console.log(tooltipElement.style.right);
