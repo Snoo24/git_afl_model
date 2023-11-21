@@ -32,7 +32,6 @@
   
   <script>
   // Load JSON data (assuming it's in the same directory as your HTML file)
-  console.log('here')
   fetch('output.json')
     .then(response => response.json())
     .then(data => {
@@ -45,6 +44,7 @@
       
       // Loop through each rectangle and create a corresponding HTML element
       for (let i = 0; i < 18; i++)  {
+        console.log('here1')
         const team_sim = sim.i;
         const positions = team_sim.positions;
         let cur_x_pos = 80;
@@ -52,10 +52,6 @@
         for (let ii = 0; ii < 18; ii++) {
           const width = round((positions.ii) * 10);
           console.log(width);
-          console.log('here')
-          const textElement = document.createElement('div');
-          textElement.textContent = 'here'; // Use the 'text' property from the JSON, if available
-          document.body.appendChild(textElement);
           
           // Create a div element for the rectangle
           const rectangleElement = document.createElement('div');
