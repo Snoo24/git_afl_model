@@ -81,8 +81,8 @@
           rectangleElement.addEventListener('mouseover', (event) => {
             // Show tooltip at the mouse position
             tooltipElement.style.display = 'block';
-            tooltipElement.style.left = `${event.clientX}px`;
-            tooltipElement.style.top = `${event.clientY}px`;
+            tooltipElement.style.left = `${event.pageX}px`; // Use pageX to get the absolute position
+            tooltipElement.style.top = `${event.pageY}px`;
           });
   
           // Add event listener for mouseout
