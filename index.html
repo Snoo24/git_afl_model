@@ -51,10 +51,10 @@
         console.log('here3');
         const positions = team_sim.positions;
         console.log('here2')
-        let cur_x_pos = 80;
+        let cur_x_pos = 900;
         
         for (let ii = 0; ii < 18; ii++) {
-          const width = Math.round((positions[ii.toString()]) * 10);
+          const width = Math.round((positions[ii.toString()]) * 4);
           console.log(width);
           
           // Create a div element for the rectangle
@@ -63,11 +63,11 @@
           
           // Set the width and height of the rectangle
           rectangleElement.style.width = width + 'px';
-          rectangleElement.style.height = '60px';
+          rectangleElement.style.height = '30px';
   
           // Set the position of the rectangle (you can adjust this based on your layout)
           rectangleElement.style.left = cur_x_pos + 'px';
-          rectangleElement.style.top = (10 * (i + 1)) + 'px';
+          rectangleElement.style.top = (50 * (i + 1)) + 'px';
 
           cur_x_pos += width;
   
