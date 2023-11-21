@@ -80,8 +80,8 @@
           rectangleElement.addEventListener('mouseover', (event) => {
             // Show tooltip at the mouse position
             tooltipElement.style.display = 'block';
-            tooltipElement.style.left = ${event.offsetX} + 15 + 'px'; // Use pageX to get the absolute position
-            tooltipElement.style.top = event.offsetY + 15;
+            tooltipElement.style.left = `${event.offsetX + 15}px`; // Use pageX to get the absolute position
+            tooltipElement.style.top = `${event.offsetY + 15}px`;
             
             const bounding_box = tooltipElement.getBoundingClientRect();
             const x_dist_oob = window.innerWidth - bounding_box.x - bounding_box.width;
