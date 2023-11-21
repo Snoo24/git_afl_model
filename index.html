@@ -36,12 +36,14 @@
     .then(response => response.json())
     .then(data => {
 
+      console.log('h');
       const sim = data.simulation;
 
       const textElement = document.createElement('div');
       textElement.textContent = 'here'; // Use the 'text' property from the JSON, if available
       document.body.appendChild(textElement);
-      
+
+      console.log('g');
       // Loop through each rectangle and create a corresponding HTML element
       for (let i = 0; i < 18; i++)  {
         console.log('here1');
