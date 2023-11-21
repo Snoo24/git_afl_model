@@ -78,6 +78,8 @@
             tooltipElement.style.display = 'block';
             tooltipElement.style.left = `${event.offsetX + 15}px`; // Use pageX to get the absolute position
             tooltipElement.style.top = `${event.offsetY + 15}px`;
+            tooltipElement.style.width = '200px';
+            tooptipElement.style.height = '100px';
             console.log(event.offsetY);
             console.log(tooltipElement.style.top);
           });
