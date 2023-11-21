@@ -32,7 +32,7 @@
   
   <script>
   // Load JSON data (assuming it's in the same directory as your HTML file)
-  fetch('output.json')
+  fetch('output.json');
     .then(response => response.json())
     .then(data => {
 
@@ -44,7 +44,7 @@
       
       // Loop through each rectangle and create a corresponding HTML element
       for (let i = 0; i < 18; i++)  {
-        console.log('here1')
+        console.log('here1');
         const team_sim = sim.i;
         const positions = team_sim.positions;
         let cur_x_pos = 80;
@@ -65,7 +65,7 @@
           rectangleElement.style.left = `${cur_x_pos}px`;
           rectangleElement.style.top = '{10 * (i + 1)}px';
 
-          cur_x_pos += width
+          cur_x_pos += width;
   
           // Add a tooltip element for text
           const tooltipElement = document.createElement('div');
