@@ -92,8 +92,8 @@
             console.log(tooltipElement.style.left);
 
             
-            if (x_dist_oob > 0) { tooltipElement.style.right = add_px(tooltipElement.style.right, x_dist_oob); }
-            if (y_dist_oob > 0) { tooltipElement.style.bottom = add_px(tooltipElement.style.bottom, y_dist_oob); }
+            if (x_dist_oob > 0) { tooltipElement.style.right = add_px(tooltipElement.style.left, -x_dist_oob); }
+            if (y_dist_oob > 0) { tooltipElement.style.bottom = add_px(tooltipElement.style.top, -y_dist_oob); }
 
                         
             tooltipElement.style.width = '200px';
