@@ -75,9 +75,9 @@
           rectangleElement.addEventListener('mouseover', (event) => {
             // Show tooltip at the mouse position
             tooltipElement.style.display = 'block';
-            tooltipElement.style.left = `${event.pageX}px`; // Use pageX to get the absolute position
-            tooltipElement.style.top = `${event.pageY}px`;
-            console.log(event.pageY);
+            tooltipElement.style.left = `${event.offsetX}px`; // Use pageX to get the absolute position
+            tooltipElement.style.top = `${event.offsetY}px`;
+            console.log(event.offsetY);
             console.log(tooltipElement.style.top);
           });
   
