@@ -88,10 +88,14 @@
             const y_dist_oob = window.innerHeight - bounding_box.y - bounding_box.height;
 
             console.log(x_dist_oob);
+            console.log(window.innerWidth);
+            console.log(bounding_box.x);
+            console.log(bounding_box.width);
+            
             if (x_dist_oob > 0) { tooltipElement.style.left = add_px(tooltipElement.style.left, -x_dist_oob); }
             if (y_dist_oob > 0) { tooltipElement.style.top = add_px(tooltipElement.style.top, -y_dist_oob); }
-            console.log(tooltipElement.style.left);
-            
+
+                        
             tooltipElement.style.width = '200px';
             tooltipElement.style.height = '100px';
             tooltipElement.style.boxShadow = '0px 8px 16px 0px rgba(0,0,0,0.2)';
