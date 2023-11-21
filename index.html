@@ -87,11 +87,8 @@
             const x_dist_oob = window.innerWidth - bounding_box.x - bounding_box.width;
             const y_dist_oob = window.innerHeight - bounding_box.y - bounding_box.height;
   
-            if (x_dist_oob > 0) { tooltipElement.left += x_dist_oob; }
-            if (y_dist_oob > 0) { tooltipElement.top += y_dist_oob; }
-
-            tooltipElement.style.left += 'px';
-            tooltipElement.style.top += 'px';
+            if (x_dist_oob > 0) { tooltipElement.left = add_px(tooltipElement.left, -x_dist_oob); }
+            if (y_dist_oob > 0) { tooltipElement.top = add_px(tooltipElement.left, -y_dist_oob); }
             
             tooltipElement.style.width = '200px';
             tooltipElement.style.height = '100px';
