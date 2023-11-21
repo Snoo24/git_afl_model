@@ -69,7 +69,8 @@
           const tooltipElement = document.createElement('div');
           tooltipElement.className = 'tooltip';
           tooltipElement.textContent = 'Your Tooltip Text'; // Change this text as needed
-          rectangleElement.appendChild(tooltipElement.getBoundingClientRect());
+        
+          rectangleElement.appendChild(tooltipElement);
   
           // Add event listener for mouseover
           rectangleElement.addEventListener('mouseover', (event) => {
@@ -77,6 +78,14 @@
             tooltipElement.style.display = 'block';
             tooltipElement.style.left = `${event.offsetX + 15}px`; // Use pageX to get the absolute position
             tooltipElement.style.top = `${event.offsetY + 15}px`;
+            
+            const bounding_box = tooltipElement.getBoundingClientRect();
+            const x_dist_oob = window.innerWidth - tooltip_rect.x - tooltip_rect.width;
+            const y_dist_oob = window.innerHeight - tooltip_rect.y - tooltip_rect.height;
+  
+            if (x_dist_oob > 0) { tooltipElement.left += x_dist_oob; }
+            if (y_dist_oob > 0) { tooltipElement.top += y_dist_oob; }
+            
             tooltipElement.style.width = '200px';
             tooltipElement.style.height = '100px';
             tooltipElement.style.boxShadow = '0px 8px 16px 0px rgba(0,0,0,0.2)';
