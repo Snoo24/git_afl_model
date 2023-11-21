@@ -60,12 +60,12 @@
           rectangleElement.className = 'rectangle';
           
           // Set the width and height of the rectangle
-          rectangleElement.style.width = `${width}px`;
+          rectangleElement.style.width = width + 'px';
           rectangleElement.style.height = 60px;
   
           // Set the position of the rectangle (you can adjust this based on your layout)
-          rectangleElement.style.left = `${cur_x_pos}px`;
-          rectangleElement.style.top = '{10 * (i + 1)}px';
+          rectangleElement.style.left = cur_x_pos + 'px';
+          rectangleElement.style.top = (10 * (i + 1)) + px';
 
           cur_x_pos += width;
   
