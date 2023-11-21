@@ -37,7 +37,7 @@
     .then(data => {
 
       function add_px(pos, add) {
-        return pos.slice(0, -2) + add + 'px';
+        return Number(pos.slice(0, -2)) + add + 'px';
       }
 
       const sim = data.simulation;
