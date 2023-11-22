@@ -21,7 +21,7 @@
 </head>
   
 <body>
-  <img src="images/Adelaide.jpg" alt="Italian Trulli"></img>
+  <img src="images/Adelaide.jpg" alt="Adelaide Crows"></img>
   <div class="dropdown">
     <button class="dropbtn">Dropdown</button>
     <div class="dropdown-content">
@@ -41,6 +41,7 @@
         return Number(pos.slice(0, -2)) + add + 'px';
       }
 
+      const team_names = ['Adelaide', 'Brisbane', 'Carlton', 'Collingwood', 'Essendon', 'Fremantle', 'Geelong', 'Gold Coast', 'GWS', 'Hawthorn', 'Melbourne', 'North Melbourne', 'Port Adelaide', 'Richmond', 'St Kilda', 'Sydney', 'West Coast', 'Footscray'];
       const sim = data.simulation;
 
       const textElement = document.createElement('div');
@@ -50,6 +51,7 @@
       // Loop through each rectangle and create a corresponding HTML element
       for (let i = 0; i < 18; i++)  {
         const team_sim = sim[i.toString()];
+        const team_num = team_sim.team;
         const positions = team_sim.positions;
         let cur_x_pos = 900;
         
@@ -76,6 +78,11 @@
           tooltipElement.textContent = 'Your Tooltip Text'; // Change this text as needed
         
           rectangleElement.appendChild(tooltipElement);
+
+          const imgElement = document.createElement('img');
+          
+          imgElement.src = 'images' + team_names[team_num] + '.jpg';
+          
   
           // Add event listener for mouseover
           rectangleElement.addEventListener('mouseover', (event) => {
