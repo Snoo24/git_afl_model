@@ -1,5 +1,8 @@
 body {
-  font-family: 'Poppins';
+  @font-face {
+    font-family: poppins;
+    src: url(Poppins-Light.ttf);
+  }
   font-size: 20px;
   background-color: #F2F4F7;
 }
