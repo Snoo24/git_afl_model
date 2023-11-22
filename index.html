@@ -82,7 +82,8 @@
           const imgElement = document.createElement('img');
           
           imgElement.src = 'images' + team_names[team_num] + '.jpg';
-          
+
+          tooltipElement.appendChild(imgElement);
   
           // Add event listener for mouseover
           rectangleElement.addEventListener('mouseover', (event) => {
