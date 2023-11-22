@@ -1,8 +1,9 @@
+@font-face {
+  font-family: poppins;
+  src: url(images/Poppins/Poppins-Light.ttf) format('truetype');
+}
+
 body {
-  @font-face {
-    font-family: poppins;
-    src: url(images/Poppins/Poppins-Light.ttf);
-  }
   font-size: 20px;
   background-color: #F2F4F7;
 }
