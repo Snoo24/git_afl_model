@@ -82,7 +82,14 @@
           const imgElement = document.createElement('img');
           
           imgElement.src = 'images/' + team_names[team_num] + '.jpg';
-          imgElement.style.width = '50px';
+          
+          const img_width = imgElement.style.width;
+          const img_height = imgElement.style.height;
+          if (img_width > img_height) {
+            imgElement.style.width = '50px';
+          } else {
+            imgElement.style.height = '50px';
+          }
 
           tooltipElement.appendChild(imgElement);
   
