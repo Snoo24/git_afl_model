@@ -83,6 +83,11 @@
             tooltipElement.style.left = `${event.offsetX + 15}px`; // Use pageX to get the absolute position
             tooltipElement.style.top = `${event.offsetY + 15}px`;
             
+
+            tooltipElement.style.width = '200px';
+            tooltipElement.style.height = '100px';
+            tooltipElement.style.boxShadow = '0px 8px 16px 0px rgba(0,0,0,0.2)';
+
             const bounding_box = tooltipElement.getBoundingClientRect();
             const x_dist_oob = bounding_box.x + bounding_box.width - window.innerWidth;
             const y_dist_oob = bounding_box.y + bounding_box.height - window.innerHeight;
@@ -96,12 +101,6 @@
             if (y_dist_oob > 0) { 
               tooltipElement.style.top = add_px(tooltipElement.style.top, -y_dist_oob); 
             }
-            
-            console.log(tooltipElement.style.left);
-                        
-            tooltipElement.style.width = '200px';
-            tooltipElement.style.height = '100px';
-            tooltipElement.style.boxShadow = '0px 8px 16px 0px rgba(0,0,0,0.2)';
           });
   
           // Add event listener for mouseout
