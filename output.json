@@ -1,11 +1,11 @@
 {
     "info": {
         "total results": {
-            "correct": 76,
-            "total": 114,
-            "percentage": 66.67,
-            "mae": 26.22,
-            "bits": 12
+            "correct": 82,
+            "total": 120,
+            "percentage": 68.33,
+            "mae": 26.47,
+            "bits": 15
         },
         "games": {
             "CD_M20240140001": {
@@ -2401,112 +2401,136 @@
                         "away attack": 77.32946279807543
                     }
                 }
+            },
+            "CD_M20240141401": {
+                "home": "Brisbane",
+                "home id": 1,
+                "away": "St Kilda",
+                "away id": 14,
+                "round": 14,
+                "venue": "G",
+                "tip info": {
+                    "margin": 20,
+                    "predicted margin": 34.52,
+                    "percentage": 85.99,
+                    "off by": 14.520000000000003,
+                    "Bits": 0.782240799936093,
+                    "margin source": {
+                        "home ground advantage": 7.515464502103581,
+                        "player difference": 5.299146628068905,
+                        "home attack": 88.4423600204993,
+                        "away attack": 66.7389825344713
+                    }
+                }
+            },
+            "CD_M20240141402": {
+                "home": "Footscray",
+                "home id": 17,
+                "away": "Fremantle",
+                "away id": 5,
+                "round": 14,
+                "venue": "MRVL",
+                "tip info": {
+                    "margin": 67,
+                    "predicted margin": 6.19,
+                    "percentage": 57.67,
+                    "off by": 60.81,
+                    "Bits": 0.20589292750767074,
+                    "margin source": {
+                        "home ground advantage": 9.064837887794308,
+                        "player difference": 1.8745773701454966,
+                        "home attack": 81.37801999658448,
+                        "away attack": 86.12965700317598
+                    }
+                }
+            },
+            "CD_M20240141403": {
+                "home": "Richmond",
+                "home id": 13,
+                "away": "Hawthorn",
+                "away id": 9,
+                "round": 14,
+                "venue": "MCG",
+                "tip info": {
+                    "margin": -48,
+                    "predicted margin": 21.7,
+                    "percentage": 24.86,
+                    "off by": 26.3,
+                    "Bits": 0.5876530210923216,
+                    "margin source": {
+                        "home ground advantage": 0.0,
+                        "player difference": -1.8040008013555173,
+                        "home attack": 74.36594835227257,
+                        "away attack": 94.26390860270801
+                    }
+                }
+            },
+            "CD_M20240141404": {
+                "home": "Adelaide",
+                "home id": 0,
+                "away": "Sydney",
+                "away id": 15,
+                "round": 14,
+                "venue": "AO",
+                "tip info": {
+                    "margin": -42,
+                    "predicted margin": 15.47,
+                    "percentage": 31.42,
+                    "off by": 26.53,
+                    "Bits": 0.455859809386185,
+                    "margin source": {
+                        "home ground advantage": 7.271589397027251,
+                        "player difference": -7.535634715212063,
+                        "home attack": 80.82999973742344,
+                        "away attack": 96.03743916460918
+                    }
+                }
+            },
+            "CD_M20240141405": {
+                "home": "North Melbourne",
+                "home id": 11,
+                "away": "Collingwood",
+                "away id": 3,
+                "round": 14,
+                "venue": "MRVL",
+                "tip info": {
+                    "margin": -1,
+                    "predicted margin": 44.79,
+                    "percentage": 8.06,
+                    "off by": 43.79,
+                    "Bits": 0.8787645712673544,
+                    "margin source": {
+                        "home ground advantage": 0.0,
+                        "player difference": -0.9808242607231663,
+                        "home attack": 65.86031918275374,
+                        "away attack": 109.66806242420576
+                    }
+                }
+            },
+            "CD_M20240141406": {
+                "home": "GWS",
+                "home id": 8,
+                "away": "Port Adelaide",
+                "away id": 12,
+                "round": 14,
+                "venue": "ES",
+                "tip info": {
+                    "margin": 22,
+                    "predicted margin": 6.3,
+                    "percentage": 57.81,
+                    "off by": 15.7,
+                    "Bits": 0.20939097746742796,
+                    "margin source": {
+                        "home ground advantage": 7.256082750543756,
+                        "player difference": 5.035286831529749,
+                        "home attack": 84.04800654886942,
+                        "away attack": 90.04266420614373
+                    }
+                }
             }
         }
     },
     "predictions": {
-        "CD_M20240141401": {
-            "home": "Brisbane",
-            "home id": 1,
-            "away": "St Kilda",
-            "away id": 14,
-            "round": 14,
-            "year": 2024,
-            "venue": "G",
-            "predicted margin": 34.73,
-            "percentage": 86.13,
-            "margin source": {
-                "home ground advantage": 7.515464502103581,
-                "player difference": 5.508159996656377,
-                "home attack": 88.4423600204993,
-                "away attack": 66.7389825344713
-            }
-        },
-        "CD_M20240141402": {
-            "home": "Footscray",
-            "home id": 17,
-            "away": "Fremantle",
-            "away id": 5,
-            "round": 14,
-            "year": 2024,
-            "venue": "MRVL",
-            "predicted margin": 5.27,
-            "percentage": 56.55,
-            "margin source": {
-                "home ground advantage": 9.064837887794308,
-                "player difference": 0.9577687306595699,
-                "home attack": 81.37801999658448,
-                "away attack": 86.12965700317598
-            }
-        },
-        "CD_M20240141403": {
-            "home": "Richmond",
-            "home id": 13,
-            "away": "Hawthorn",
-            "away id": 9,
-            "round": 14,
-            "year": 2024,
-            "venue": "MCG",
-            "predicted margin": -21.7,
-            "percentage": 24.86,
-            "margin source": {
-                "home ground advantage": 0.0,
-                "player difference": -1.8040008013555173,
-                "home attack": 74.36594835227257,
-                "away attack": 94.26390860270801
-            }
-        },
-        "CD_M20240141404": {
-            "home": "Adelaide",
-            "home id": 0,
-            "away": "Sydney",
-            "away id": 15,
-            "round": 14,
-            "year": 2024,
-            "venue": "AO",
-            "predicted margin": -15.47,
-            "percentage": 31.42,
-            "margin source": {
-                "home ground advantage": 7.271589397027251,
-                "player difference": -7.535634715212063,
-                "home attack": 80.82999973742344,
-                "away attack": 96.03743916460918
-            }
-        },
-        "CD_M20240141405": {
-            "home": "North Melbourne",
-            "home id": 11,
-            "away": "Collingwood",
-            "away id": 3,
-            "round": 14,
-            "year": 2024,
-            "venue": "MRVL",
-            "predicted margin": -44.77,
-            "percentage": 8.07,
-            "margin source": {
-                "home ground advantage": 0.0,
-                "player difference": -0.9611509993238416,
-                "home attack": 65.86031918275374,
-                "away attack": 109.66806242420576
-            }
-        },
-        "CD_M20240141406": {
-            "home": "GWS",
-            "home id": 8,
-            "away": "Port Adelaide",
-            "away id": 12,
-            "round": 14,
-            "year": 2024,
-            "venue": "ES",
-            "predicted margin": 5.04,
-            "percentage": 56.26,
-            "margin source": {
-                "home ground advantage": 7.256082750543756,
-                "player difference": 3.7756382131905246,
-                "home attack": 84.04800654886942,
-                "away attack": 90.04266420614373
-            }
-        },
         "CD_M20240141501": {
             "home": "Carlton",
             "home id": 2,
@@ -2515,11 +2539,11 @@
             "round": 15,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": 15.0,
-            "percentage": 68.05,
+            "predicted margin": 13.55,
+            "percentage": 66.42,
             "margin source": {
                 "home ground advantage": 6.006295764884293,
-                "player difference": 1.3657580915361898,
+                "player difference": -0.07627347967596931,
                 "home attack": 95.96018124661391,
                 "away attack": 88.33653911052531
             }
@@ -2532,13 +2556,13 @@
             "round": 15,
             "year": 2024,
             "venue": "AO",
-            "predicted margin": -6.64,
-            "percentage": 41.77,
+            "predicted margin": -7.9,
+            "percentage": 40.24,
             "margin source": {
                 "home ground advantage": 7.775823112997701,
-                "player difference": -3.2428756469854334,
-                "home attack": 81.15866772871563,
-                "away attack": 92.33269516670195
+                "player difference": -5.6349984378248,
+                "home attack": 84.85945200286444,
+                "away attack": 94.90260681473276
             }
         },
         "CD_M20240141503": {
@@ -2549,13 +2573,13 @@
             "round": 15,
             "year": 2024,
             "venue": "ES",
-            "predicted margin": -18.01,
-            "percentage": 28.66,
+            "predicted margin": -14.91,
+            "percentage": 32.05,
             "margin source": {
                 "home ground advantage": 5.947122320736386,
-                "player difference": -7.622736685553067,
-                "home attack": 80.77609734788707,
-                "away attack": 97.10768883771273
+                "player difference": -4.082001165964416,
+                "home attack": 80.05261926400736,
+                "away attack": 96.82641908564938
             }
         },
         "CD_M20240141504": {
@@ -2566,13 +2590,13 @@
             "round": 15,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": 45.01,
-            "percentage": 92.04,
+            "predicted margin": 34.39,
+            "percentage": 85.9,
             "margin source": {
                 "home ground advantage": 5.932936724818378,
-                "player difference": 5.373315745779109,
-                "home attack": 101.65499340745252,
-                "away attack": 67.95329515428469
+                "player difference": -1.9596628424627678,
+                "home attack": 101.81090657971421,
+                "away attack": 71.39058379862955
             }
         },
         "CD_M20240141505": {
@@ -2583,11 +2607,11 @@
             "round": 15,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": 31.18,
-            "percentage": 83.53,
+            "predicted margin": 33.37,
+            "percentage": 85.17,
             "margin source": {
                 "home ground advantage": 9.064837887794308,
-                "player difference": 4.942395527976294,
+                "player difference": 7.127265386854812,
                 "home attack": 90.67866220025294,
                 "away attack": 73.50311003691806
             }
@@ -2600,13 +2624,13 @@
             "round": 15,
             "year": 2024,
             "venue": "OS",
-            "predicted margin": 23.49,
-            "percentage": 76.87,
+            "predicted margin": 16.32,
+            "percentage": 69.52,
             "margin source": {
                 "home ground advantage": 10.104183645533443,
-                "player difference": 0.6081314288225891,
-                "home attack": 86.45591335643661,
-                "away attack": 73.67952092367196
+                "player difference": -3.4264111190557918,
+                "home attack": 86.69339887684902,
+                "away attack": 77.04925806528675
             }
         },
         "CD_M20240141602": {
@@ -2617,13 +2641,13 @@
             "round": 16,
             "year": 2024,
             "venue": "G",
-            "predicted margin": 25.25,
-            "percentage": 78.52,
+            "predicted margin": 22.11,
+            "percentage": 75.54,
             "margin source": {
                 "home ground advantage": 7.513626632766599,
-                "player difference": 2.355093001185085,
-                "home attack": 89.75196050632645,
-                "away attack": 74.37087293597673
+                "player difference": 1.6751774896788412,
+                "home attack": 91.68247657713368,
+                "away attack": 78.76136022926907
             }
         },
         "CD_M20240141605": {
@@ -2634,13 +2658,13 @@
             "round": 16,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -51.57,
-            "percentage": 5.34,
+            "predicted margin": -55.2,
+            "percentage": 4.21,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": -5.733107916170805,
-                "home attack": 69.02733409748791,
-                "away attack": 114.86370825695637
+                "player difference": -7.711906127908757,
+                "home attack": 72.7245324946345,
+                "away attack": 120.21429058196797
             }
         },
         "CD_M20240141608": {
@@ -2651,13 +2675,13 @@
             "round": 16,
             "year": 2024,
             "venue": "SCG",
-            "predicted margin": 14.88,
-            "percentage": 67.91,
+            "predicted margin": 21.67,
+            "percentage": 75.1,
             "margin source": {
                 "home ground advantage": 9.724124467071597,
-                "player difference": 4.223182048409174,
-                "home attack": 84.75987626974903,
-                "away attack": 83.83187043812185
+                "player difference": 5.159338922169968,
+                "home attack": 89.5859471453363,
+                "away attack": 82.80195009103117
             }
         },
         "CD_M20240141604": {
@@ -2668,13 +2692,13 @@
             "round": 16,
             "year": 2024,
             "venue": "PFS",
-            "predicted margin": -5.08,
-            "percentage": 43.69,
+            "predicted margin": -1.14,
+            "percentage": 48.58,
             "margin source": {
                 "home ground advantage": 0,
-                "player difference": 3.428392847539635,
-                "home attack": 77.74617658660308,
-                "away attack": 86.25334744615978
+                "player difference": 4.246689797465829,
+                "home attack": 80.96915133594541,
+                "away attack": 86.35415110343003
             }
         },
         "CD_M20240141601": {
@@ -2685,13 +2709,13 @@
             "round": 16,
             "year": 2024,
             "venue": "AO",
-            "predicted margin": 5.55,
-            "percentage": 56.89,
+            "predicted margin": -0.26,
+            "percentage": 49.67,
             "margin source": {
                 "home ground advantage": 7.256082750543756,
-                "player difference": -2.7119014599178213,
-                "home attack": 86.0300006408959,
-                "away attack": 85.02510333898192
+                "player difference": -4.4404294285353485,
+                "home attack": 83.53411968692556,
+                "away attack": 86.61073468461828
             }
         },
         "CD_M20240141603": {
@@ -2719,13 +2743,13 @@
             "round": 16,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -3.78,
-            "percentage": 45.29,
+            "predicted margin": 3.62,
+            "percentage": 54.51,
             "margin source": {
                 "home ground advantage": 6.683420749639706,
-                "player difference": 1.4648917340405838,
-                "home attack": 72.38693873932935,
-                "away attack": 84.3180100977386
+                "player difference": 4.198067180652201,
+                "home attack": 77.92663192783046,
+                "away attack": 85.18452939021348
             }
         },
         "CD_M20240141606": {
@@ -2736,13 +2760,13 @@
             "round": 16,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": -34.23,
-            "percentage": 14.22,
+            "predicted margin": -34.34,
+            "percentage": 14.14,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": -3.9597521295417293,
-                "home attack": 74.20059862234844,
-                "away attack": 104.46979726567649
+                "player difference": -2.8467920075360102,
+                "home attack": 73.57272026270196,
+                "away attack": 105.06544271243807
             }
         },
         "CD_M20240141609": {
@@ -2753,13 +2777,13 @@
             "round": 16,
             "year": 2024,
             "venue": "OS",
-            "predicted margin": -15.04,
-            "percentage": 31.9,
+            "predicted margin": -16.44,
+            "percentage": 30.35,
             "margin source": {
                 "home ground advantage": 9.06849027647583,
-                "player difference": -6.770613952082952,
-                "home attack": 73.52221200141977,
-                "away attack": 90.8640648017048
+                "player difference": -7.164504375819867,
+                "home attack": 72.97353643264043,
+                "away attack": 91.32143371880804
             }
         },
         "CD_M20240141702": {
@@ -2770,13 +2794,13 @@
             "round": 17,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": 8.04,
-            "percentage": 59.92,
+            "predicted margin": 4.14,
+            "percentage": 55.15,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": -2.3600988696338385,
-                "home attack": 87.12410742877411,
-                "away attack": 76.7266692940434
+                "player difference": -3.178395819560033,
+                "home attack": 87.22592873687707,
+                "away attack": 79.90738027679357
             }
         },
         "CD_M20240141707": {
@@ -2787,13 +2811,13 @@
             "round": 17,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -33.56,
-            "percentage": 14.69,
+            "predicted margin": -29.41,
+            "percentage": 17.88,
             "margin source": {
                 "home ground advantage": 7.479007068402879,
-                "player difference": -6.32740842407842,
-                "home attack": 69.28880740507486,
-                "away attack": 103.9974061330587
+                "player difference": -5.5225108848876925,
+                "home attack": 72.7936504054462,
+                "away attack": 104.15691197683168
             }
         },
         "CD_M20240141708": {
@@ -2804,13 +2828,13 @@
             "round": 17,
             "year": 2024,
             "venue": "AO",
-            "predicted margin": 1.21,
-            "percentage": 51.51,
+            "predicted margin": -9.31,
+            "percentage": 38.54,
             "margin source": {
                 "home ground advantage": 6.683420749639706,
-                "player difference": -1.2475748161920441,
-                "home attack": 86.91896562053977,
-                "away attack": 91.14600222701078
+                "player difference": -6.219081118216244,
+                "home attack": 86.05952787712508,
+                "away attack": 95.83530702716772
             }
         },
         "CD_M20240141704": {
@@ -2821,13 +2845,13 @@
             "round": 17,
             "year": 2024,
             "venue": "GMHBA",
-            "predicted margin": 6.78,
-            "percentage": 58.4,
+            "predicted margin": 5.29,
+            "percentage": 56.57,
             "margin source": {
                 "home ground advantage": 6.006295764884293,
-                "player difference": -1.1716598583608173,
-                "home attack": 88.53338958283348,
-                "away attack": 86.58561604677327
+                "player difference": -1.5655502820977327,
+                "home attack": 87.87268982199947,
+                "away attack": 87.02144917326231
             }
         },
         "CD_M20240141705": {
@@ -2838,13 +2862,13 @@
             "round": 17,
             "year": 2024,
             "venue": "ES",
-            "predicted margin": -5.54,
-            "percentage": 43.12,
+            "predicted margin": 0.8,
+            "percentage": 51.0,
             "margin source": {
                 "home ground advantage": 6.741814646696775,
-                "player difference": -3.745445887697538,
-                "home attack": 83.98020583912246,
-                "away attack": 92.51449188300758
+                "player difference": 0.8338248070600788,
+                "home attack": 84.49471246056763,
+                "away attack": 91.26875214742446
             }
         },
         "CD_M20240141703": {
@@ -2855,13 +2879,13 @@
             "round": 17,
             "year": 2024,
             "venue": "OS",
-            "predicted margin": 47.14,
-            "percentage": 92.98,
+            "predicted margin": 43.59,
+            "percentage": 91.37,
             "margin source": {
                 "home ground advantage": 9.06849027647583,
-                "player difference": 3.613860878988085,
-                "home attack": 100.75520451999986,
-                "away attack": 66.30211550161829
+                "player difference": 1.665094051662711,
+                "home attack": 101.60801303432896,
+                "away attack": 68.74774513341252
             }
         },
         "CD_M20240141706": {
@@ -2889,13 +2913,13 @@
             "round": 17,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -19.82,
-            "percentage": 26.76,
+            "predicted margin": -18.74,
+            "percentage": 27.89,
             "margin source": {
                 "home ground advantage": 6.753360764229724,
-                "player difference": -5.208297067290838,
-                "home attack": 69.56898385119712,
-                "away attack": 90.93386074451189
+                "player difference": -4.763282340215881,
+                "home attack": 73.31641155096405,
+                "away attack": 94.0456977330481
             }
         },
         "CD_M20240141701": {
@@ -2906,13 +2930,13 @@
             "round": 17,
             "year": 2024,
             "venue": "G",
-            "predicted margin": 30.54,
-            "percentage": 83.03,
+            "predicted margin": 26.93,
+            "percentage": 80.02,
             "margin source": {
                 "home ground advantage": 7.775823112997701,
-                "player difference": 6.9043249911249,
-                "home attack": 93.40610527806923,
-                "away attack": 77.54191080720229
+                "player difference": 3.373666753478567,
+                "home attack": 96.60277734527025,
+                "away attack": 80.82551059022904
             }
         },
         "CD_M20240141802": {
@@ -2923,13 +2947,13 @@
             "round": 18,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": 12.03,
-            "percentage": 64.67,
+            "predicted margin": 7.87,
+            "percentage": 59.72,
             "margin source": {
                 "home ground advantage": 6.006295764884293,
-                "player difference": -3.016657435379679,
-                "home attack": 92.3313216455847,
-                "away attack": 83.28995050195756
+                "player difference": -3.834954385305873,
+                "home attack": 92.43922858691565,
+                "away attack": 86.74274289802813
             }
         },
         "CD_M20240141804": {
@@ -2940,13 +2964,13 @@
             "round": 18,
             "year": 2024,
             "venue": "UTAS",
-            "predicted margin": -4.99,
-            "percentage": 43.79,
+            "predicted margin": 0.37,
+            "percentage": 50.46,
             "margin source": {
                 "home ground advantage": 9.343573542954177,
-                "player difference": 0.1517930173782722,
-                "home attack": 72.8620113262905,
-                "away attack": 87.3514132772183
+                "player difference": 1.3814901464348421,
+                "home attack": 76.57788782512611,
+                "away attack": 86.93768899484549
             }
         },
         "CD_M20240141807": {
@@ -2957,13 +2981,13 @@
             "round": 18,
             "year": 2024,
             "venue": "SCG",
-            "predicted margin": 70.36,
-            "percentage": 98.61,
+            "predicted margin": 68.79,
+            "percentage": 98.43,
             "margin source": {
                 "home ground advantage": 6.753360764229724,
-                "player difference": 11.158721901310182,
-                "home attack": 119.6371415789275,
-                "away attack": 67.18580718992271
+                "player difference": 10.454174530560595,
+                "home attack": 121.10428893775179,
+                "away attack": 69.5261263937516
             }
         },
         "CD_M20240141809": {
@@ -2974,13 +2998,13 @@
             "round": 18,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": 0.22,
-            "percentage": 50.27,
+            "predicted margin": 6.85,
+            "percentage": 58.48,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": -1.5483231872838479,
-                "home attack": 91.07247563315879,
-                "away attack": 89.30504234049724
+                "player difference": 1.2353725636448314,
+                "home attack": 95.16884947898264,
+                "away attack": 89.5582101933144
             }
         },
         "CD_M20240141801": {
@@ -2991,13 +3015,13 @@
             "round": 18,
             "year": 2024,
             "venue": "AO",
-            "predicted margin": 8.89,
-            "percentage": 60.95,
+            "predicted margin": 5.67,
+            "percentage": 57.04,
             "margin source": {
                 "home ground advantage": 6.683420749639706,
-                "player difference": -5.126341078180051,
-                "home attack": 80.56046016297879,
-                "away attack": 73.22847024486416
+                "player difference": -2.820963247556058,
+                "home attack": 81.13513485946115,
+                "away attack": 79.32267959811607
             }
         },
         "CD_M20240141805": {
@@ -3025,13 +3049,13 @@
             "round": 18,
             "year": 2024,
             "venue": "PFS",
-            "predicted margin": -2.88,
-            "percentage": 46.41,
+            "predicted margin": 0.92,
+            "percentage": 51.15,
             "margin source": {
                 "home ground advantage": 0,
-                "player difference": 1.8418753240996584,
-                "home attack": 82.52343542489669,
-                "away attack": 87.2482118492981
+                "player difference": 4.029685875195178,
+                "home attack": 83.03430141273589,
+                "away attack": 86.1413194620039
             }
         },
         "CD_M20240141806": {
@@ -3042,13 +3066,13 @@
             "round": 18,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": -14.59,
-            "percentage": 32.4,
+            "predicted margin": -20.87,
+            "percentage": 25.7,
             "margin source": {
                 "home ground advantage": 6.741814646696775,
-                "player difference": -0.21430624184419164,
-                "home attack": 75.96100283255288,
-                "away attack": 97.08255543005055
+                "player difference": -3.680616814596089,
+                "home attack": 74.3040420243829,
+                "away attack": 98.23425139947857
             }
         },
         "CD_M20240141808": {
@@ -3059,13 +3083,13 @@
             "round": 18,
             "year": 2024,
             "venue": "OS",
-            "predicted margin": -32.44,
-            "percentage": 15.51,
+            "predicted margin": -29.98,
+            "percentage": 17.42,
             "margin source": {
                 "home ground advantage": 10.08771584436931,
-                "player difference": -7.411689828767866,
-                "home attack": 67.68956239887645,
-                "away attack": 102.80542014127751
+                "player difference": -6.731774317261622,
+                "home attack": 71.68561827221045,
+                "away attack": 105.01670906053
             }
         },
         "CD_M20240141903": {
@@ -3076,13 +3100,13 @@
             "round": 19,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": 9.3,
-            "percentage": 61.45,
+            "predicted margin": 8.81,
+            "percentage": 60.85,
             "margin source": {
                 "home ground advantage": 6.683420749639706,
-                "player difference": 4.435030690333329,
-                "home attack": 82.38807502864852,
-                "away attack": 84.2016316924702
+                "player difference": 1.58428796419324,
+                "home attack": 83.413493841718,
+                "away attack": 82.87473194615303
             }
         },
         "CD_M20240141906": {
@@ -3093,13 +3117,13 @@
             "round": 19,
             "year": 2024,
             "venue": "ES",
-            "predicted margin": 2.82,
-            "percentage": 53.51,
+            "predicted margin": 9.05,
+            "percentage": 61.14,
             "margin source": {
                 "home ground advantage": 6.719704578130555,
-                "player difference": -2.791423208321304,
-                "home attack": 83.30449072748223,
-                "away attack": 84.4131481362398
+                "player difference": 1.7878474864363125,
+                "home attack": 83.81485756508576,
+                "away attack": 83.27649580536003
             }
         },
         "CD_M20240141909": {
@@ -3110,13 +3134,13 @@
             "round": 19,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": 24.97,
-            "percentage": 78.26,
+            "predicted margin": 29.52,
+            "percentage": 82.21,
             "margin source": {
                 "home ground advantage": 9.064837887794308,
-                "player difference": 5.6337059158230165,
-                "home attack": 80.59734026394375,
-                "away attack": 70.32457980875105
+                "player difference": 6.179070811339113,
+                "home attack": 86.23154524309179,
+                "away attack": 71.96022967905341
             }
         },
         "CD_M20240141907": {
@@ -3127,13 +3151,13 @@
             "round": 19,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": -6.07,
-            "percentage": 42.46,
+            "predicted margin": -0.72,
+            "percentage": 49.1,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 4.188317293740496,
-                "home attack": 76.88354549559605,
-                "away attack": 87.14674921367971
+                "player difference": 5.400504667403606,
+                "home attack": 80.47380005977236,
+                "away attack": 86.59748526768985
             }
         },
         "CD_M20240141905": {
@@ -3144,13 +3168,13 @@
             "round": 19,
             "year": 2024,
             "venue": "GMHBA",
-            "predicted margin": -3.22,
-            "percentage": 45.98,
+            "predicted margin": -10.11,
+            "percentage": 37.59,
             "margin source": {
                 "home ground advantage": 6.003532106321969,
-                "player difference": 0.1825650957476581,
-                "home attack": 87.29510138431533,
-                "away attack": 96.70562019646668
+                "player difference": -2.601130655181021,
+                "home attack": 87.54257132329884,
+                "away attack": 101.05536879573226
             }
         },
         "CD_M20240141908": {
@@ -3161,13 +3185,13 @@
             "round": 19,
             "year": 2024,
             "venue": "AO",
-            "predicted margin": 35.27,
-            "percentage": 86.5,
+            "predicted margin": 31.42,
+            "percentage": 83.72,
             "margin source": {
                 "home ground advantage": 6.686802515607505,
-                "player difference": 1.1638541260658375,
-                "home attack": 101.67854444655913,
-                "away attack": 74.26050384882384
+                "player difference": -2.136916547035402,
+                "home attack": 100.96095462957943,
+                "away attack": 74.08794236560671
             }
         },
         "CD_M20240141901": {
@@ -3178,13 +3202,13 @@
             "round": 19,
             "year": 2024,
             "venue": "G",
-            "predicted margin": 4.56,
-            "percentage": 55.67,
+            "predicted margin": -1.83,
+            "percentage": 47.71,
             "margin source": {
                 "home ground advantage": 6.775170078188783,
-                "player difference": -3.4303131543459884,
-                "home attack": 88.73827089333416,
-                "away attack": 87.5266266471233
+                "player difference": -4.210578834293371,
+                "home attack": 89.28807015465716,
+                "away attack": 93.6868047517835
             }
         },
         "CD_M20240141904": {
@@ -3195,13 +3219,13 @@
             "round": 19,
             "year": 2024,
             "venue": "OS",
-            "predicted margin": 23.4,
-            "percentage": 76.79,
+            "predicted margin": 19.5,
+            "percentage": 72.91,
             "margin source": {
                 "home ground advantage": 9.06849027647583,
-                "player difference": 1.5622241071218992,
-                "home attack": 84.78951245036015,
-                "away attack": 72.01998100007656
+                "player difference": 0.7264174018022446,
+                "home attack": 85.02242053851799,
+                "away attack": 75.31381898751084
             }
         },
         "CD_M20240141902": {
@@ -3212,13 +3236,13 @@
             "round": 19,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": 51.41,
-            "percentage": 94.61,
+            "predicted margin": 47.25,
+            "percentage": 93.03,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 7.281431103454653,
-                "home attack": 113.97830075028502,
-                "away attack": 69.85083586023104
+                "player difference": 6.476533564263926,
+                "home attack": 114.15311477410523,
+                "away attack": 73.38410800480091
             }
         },
         "CD_M20240142002": {
@@ -3229,13 +3253,13 @@
             "round": 20,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": 11.97,
-            "percentage": 64.59,
+            "predicted margin": 15.83,
+            "percentage": 68.98,
             "margin source": {
                 "home ground advantage": 6.683420749639706,
-                "player difference": 2.795898003475892,
-                "home attack": 90.44341865383947,
-                "away attack": 87.95591601620815
+                "player difference": 4.983708554571412,
+                "home attack": 91.00331374517019,
+                "away attack": 86.84004519441994
             }
         },
         "CD_M20240142007": {
@@ -3246,13 +3270,13 @@
             "round": 20,
             "year": 2024,
             "venue": "BA",
-            "predicted margin": -36.55,
-            "percentage": 12.64,
+            "predicted margin": -32.17,
+            "percentage": 15.72,
             "margin source": {
                 "home ground advantage": 6.602375837697134,
-                "player difference": -5.9156730119184635,
-                "home attack": 74.17134931430157,
-                "away attack": 111.41305192681371
+                "player difference": -5.110775472727736,
+                "home attack": 77.92316644333022,
+                "away attack": 111.58393150463868
             }
         },
         "CD_M20240142005": {
@@ -3263,13 +3287,13 @@
             "round": 20,
             "year": 2024,
             "venue": "PFS",
-            "predicted margin": -16.83,
-            "percentage": 29.93,
+            "predicted margin": -13.63,
+            "percentage": 33.49,
             "margin source": {
                 "home ground advantage": 0,
-                "player difference": -1.401000322885775,
-                "home attack": 76.08458392390052,
-                "away attack": 91.51589031306338
+                "player difference": -0.7210848113795312,
+                "home attack": 80.576240210104,
+                "away attack": 93.48434755886524
             }
         },
         "CD_M20240142008": {
@@ -3280,13 +3304,13 @@
             "round": 20,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -4.85,
-            "percentage": 43.97,
+            "predicted margin": -1.05,
+            "percentage": 48.69,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 0.6913103878467218,
-                "home attack": 72.4708892055804,
-                "away attack": 78.00984498162622
+                "player difference": 1.2366752833628183,
+                "home attack": 77.53700979303646,
+                "away attack": 79.82424320730358
             }
         },
         "CD_M20240142006": {
@@ -3297,13 +3321,13 @@
             "round": 20,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": 9.39,
-            "percentage": 61.55,
+            "predicted margin": 3.2,
+            "percentage": 53.99,
             "margin source": {
                 "home ground advantage": 6.741814646696775,
-                "player difference": 1.8373305300219942,
-                "home attack": 82.51184655810407,
-                "away attack": 81.6988321503043
+                "player difference": -2.7419401647356225,
+                "home attack": 81.40079591272246,
+                "away attack": 82.19936188449181
             }
         },
         "CD_M20240142004": {
@@ -3314,13 +3338,13 @@
             "round": 20,
             "year": 2024,
             "venue": "OS",
-            "predicted margin": 38.19,
-            "percentage": 88.39,
+            "predicted margin": 34.62,
+            "percentage": 86.06,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 6.618820934704679,
-                "home attack": 97.12123726165204,
-                "away attack": 65.54986926222172
+                "player difference": 5.783014229385025,
+                "home attack": 97.38801933217496,
+                "away attack": 68.54779631592405
             }
         },
         "CD_M20240142003": {
@@ -3331,13 +3355,13 @@
             "round": 20,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": 30.13,
-            "percentage": 82.71,
+            "predicted margin": 26.61,
+            "percentage": 79.74,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": -0.4226633973741391,
-                "home attack": 100.51913541927128,
-                "away attack": 69.96158383269346
+                "player difference": -2.3539204693060527,
+                "home attack": 101.21040153645251,
+                "away attack": 72.24529761202403
             }
         },
         "CD_M20240142009": {
@@ -3348,13 +3372,13 @@
             "round": 20,
             "year": 2024,
             "venue": "SCG",
-            "predicted margin": 18.32,
-            "percentage": 71.67,
+            "predicted margin": 14.34,
+            "percentage": 67.31,
             "margin source": {
                 "home ground advantage": 6.753360764229724,
-                "player difference": 5.425613985139377,
-                "home attack": 93.73889524472021,
-                "away attack": 87.59777478456795
+                "player difference": 2.7422684026518374,
+                "home attack": 95.01171637288833,
+                "away attack": 90.16559085504986
             }
         },
         "CD_M20240142001": {
@@ -3365,13 +3389,13 @@
             "round": 20,
             "year": 2024,
             "venue": "AO",
-            "predicted margin": 2.09,
-            "percentage": 52.61,
+            "predicted margin": 1.15,
+            "percentage": 51.44,
             "margin source": {
                 "home ground advantage": 6.686802515607505,
-                "player difference": -6.263249114439986,
-                "home attack": 84.22351398532514,
-                "away attack": 82.5565266033441
+                "player difference": -3.806396812036813,
+                "home attack": 82.27763788471506,
+                "away attack": 84.00476654914085
             }
         },
         "CD_M20240142109": {
@@ -3382,13 +3406,13 @@
             "round": 21,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": 9.31,
-            "percentage": 61.45,
+            "predicted margin": 15.85,
+            "percentage": 69.0,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 0.3597921703916959,
-                "home attack": 88.59843609480566,
-                "away attack": 79.64940195296614
+                "player difference": 3.143487921320375,
+                "home attack": 92.58352943806291,
+                "away attack": 79.8751973564745
             }
         },
         "CD_M20240142108": {
@@ -3416,13 +3440,13 @@
             "round": 21,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -10.22,
-            "percentage": 37.46,
+            "predicted margin": -5.31,
+            "percentage": 43.4,
             "margin source": {
                 "home ground advantage": 5.932936724818378,
-                "player difference": -3.3216789739129235,
-                "home attack": 80.748761883567,
-                "away attack": 93.58432230369509
+                "player difference": -3.629741556727916,
+                "home attack": 85.31697078482101,
+                "away attack": 92.9347409471367
             }
         },
         "CD_M20240142103": {
@@ -3433,13 +3457,13 @@
             "round": 21,
             "year": 2024,
             "venue": "GMHBA",
-            "predicted margin": 11.95,
-            "percentage": 64.57,
+            "predicted margin": 11.62,
+            "percentage": 64.18,
             "margin source": {
                 "home ground advantage": 6.653930691497833,
-                "player difference": 5.091589256079169,
-                "home attack": 89.43563892744699,
-                "away attack": 89.23417603143088
+                "player difference": 2.24084652993908,
+                "home attack": 90.54877316056512,
+                "away attack": 87.8279704370859
             }
         },
         "CD_M20240142101": {
@@ -3450,13 +3474,13 @@
             "round": 21,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": -2.64,
-            "percentage": 46.71,
+            "predicted margin": -6.89,
+            "percentage": 41.47,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": -4.382415526915868,
-                "home attack": 86.95298188110985,
-                "away attack": 85.20767417828664
+                "player difference": -5.200712476842063,
+                "home attack": 87.05460319603495,
+                "away attack": 88.73996598199868
             }
         },
         "CD_M20240142106": {
@@ -3467,13 +3491,13 @@
             "round": 21,
             "year": 2024,
             "venue": "AO",
-            "predicted margin": -9.74,
-            "percentage": 38.04,
+            "predicted margin": -15.96,
+            "percentage": 30.88,
             "margin source": {
                 "home ground advantage": 7.271589397027251,
-                "player difference": -6.673188801331421,
-                "home attack": 84.60012170079779,
-                "away attack": 94.93379012622758
+                "player difference": -8.961349520868081,
+                "home attack": 82.2746521335566,
+                "away attack": 96.54481722988409
             }
         },
         "CD_M20240142104": {
@@ -3484,13 +3508,13 @@
             "round": 21,
             "year": 2024,
             "venue": "MO",
-            "predicted margin": 3.6,
-            "percentage": 54.49,
+            "predicted margin": 8.38,
+            "percentage": 60.34,
             "margin source": {
                 "home ground advantage": 6.463923289388779,
-                "player difference": -3.5513476545221656,
-                "home attack": 84.16734859285074,
-                "away attack": 83.4765438005785
+                "player difference": 0.6340326164985358,
+                "home attack": 84.05103634812687,
+                "away attack": 82.76702870842514
             }
         },
         "CD_M20240142102": {
@@ -3501,13 +3525,13 @@
             "round": 21,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": -7.22,
-            "percentage": 41.06,
+            "predicted margin": -3.3,
+            "percentage": 45.89,
             "margin source": {
                 "home ground advantage": 9.06849027647583,
-                "player difference": -1.6764254067283852,
-                "home attack": 72.7133408207789,
-                "away attack": 87.32871831810085
+                "player difference": -0.8406187014087307,
+                "home attack": 76.03888965962797,
+                "away attack": 87.56860134416085
             }
         },
         "CD_M20240142107": {
@@ -3518,13 +3542,13 @@
             "round": 21,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -15.97,
-            "percentage": 30.87,
+            "predicted margin": -9.86,
+            "percentage": 37.88,
             "margin source": {
                 "home ground advantage": 7.515464502103581,
-                "player difference": -1.7779839129448496,
-                "home attack": 66.7389825344713,
-                "away attack": 88.4423600204993
+                "player difference": -0.5527035059225092,
+                "home attack": 75.6197728667606,
+                "away attack": 92.44599690240031
             }
         },
         "CD_M20240142209": {
@@ -3535,13 +3559,13 @@
             "round": 22,
             "year": 2024,
             "venue": "SCG",
-            "predicted margin": 20.81,
-            "percentage": 74.25,
+            "predicted margin": 27.59,
+            "percentage": 80.6,
             "margin source": {
                 "home ground advantage": 6.750615492829974,
-                "player difference": 8.259706324771399,
-                "home attack": 89.43809928885355,
-                "away attack": 83.6354526514576
+                "player difference": 9.178353443138732,
+                "home attack": 94.14364646883959,
+                "away attack": 82.47793029751683
             }
         },
         "CD_M20240142202": {
@@ -3552,13 +3576,13 @@
             "round": 22,
             "year": 2024,
             "venue": "G",
-            "predicted margin": 27.92,
-            "percentage": 80.88,
+            "predicted margin": 18.32,
+            "percentage": 71.67,
             "margin source": {
                 "home ground advantage": 6.773456731413641,
-                "player difference": 4.192423531207079,
-                "home attack": 94.44703113479042,
-                "away attack": 77.49020111655152
+                "player difference": -1.0667626750567814,
+                "home attack": 95.17941867230103,
+                "away attack": 82.56761014449707
             }
         },
         "CD_M20240142207": {
@@ -3569,13 +3593,13 @@
             "round": 22,
             "year": 2024,
             "venue": "BA",
-            "predicted margin": -5.6,
-            "percentage": 43.05,
+            "predicted margin": -1.0,
+            "percentage": 48.75,
             "margin source": {
                 "home ground advantage": 9.404107266655512,
-                "player difference": -0.3167189181963291,
-                "home attack": 77.83637280912708,
-                "away attack": 92.52253937283655
+                "player difference": 0.4881786209943982,
+                "home attack": 81.77357820536805,
+                "away attack": 92.66444565934336
             }
         },
         "CD_M20240142205": {
@@ -3586,13 +3610,13 @@
             "round": 22,
             "year": 2024,
             "venue": "OS",
-            "predicted margin": 23.64,
-            "percentage": 77.02,
+            "predicted margin": 19.45,
+            "percentage": 72.86,
             "margin source": {
                 "home ground advantage": 9.009532913759966,
-                "player difference": 1.019866840982545,
-                "home attack": 92.5481616728993,
-                "away attack": 78.93331762629788
+                "player difference": 0.18406013566289056,
+                "home attack": 92.80238197414678,
+                "away attack": 82.54333746331282
             }
         },
         "CD_M20240142204": {
@@ -3620,13 +3644,13 @@
             "round": 22,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": 2.67,
-            "percentage": 53.33,
+            "predicted margin": 6.45,
+            "percentage": 57.99,
             "margin source": {
                 "home ground advantage": 6.686802515607505,
-                "player difference": 0.8877826458003483,
-                "home attack": 80.66469728432523,
-                "away attack": 85.56653972723268
+                "player difference": 3.0755931968958685,
+                "home attack": 81.16405664872553,
+                "away attack": 84.48098221924873
             }
         },
         "CD_M20240142203": {
@@ -3637,13 +3661,13 @@
             "round": 22,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": 9.22,
-            "percentage": 61.35,
+            "predicted margin": 7.74,
+            "percentage": 59.57,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 0.19409823317537236,
-                "home attack": 90.57184171691986,
-                "away attack": 81.54196613993604
+                "player difference": -0.199792190561543,
+                "home attack": 89.89592956171343,
+                "away attack": 81.95241179667923
             }
         },
         "CD_M20240142208": {
@@ -3654,13 +3678,13 @@
             "round": 22,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -21.04,
-            "percentage": 25.52,
+            "predicted margin": -25.79,
+            "percentage": 20.99,
             "margin source": {
                 "home ground advantage": -5.932936724818378,
-                "player difference": -2.6287458601064215,
-                "home attack": 71.13162033062689,
-                "away attack": 83.61303594376739
+                "player difference": -2.0611506336167986,
+                "home attack": 72.17013231055762,
+                "away attack": 89.9681093538338
             }
         },
         "CD_M20240142201": {
@@ -3671,13 +3695,13 @@
             "round": 22,
             "year": 2024,
             "venue": "AO",
-            "predicted margin": -7.39,
-            "percentage": 40.86,
+            "predicted margin": -13.74,
+            "percentage": 33.37,
             "margin source": {
                 "home ground advantage": 6.683420749639706,
-                "player difference": -4.909024160331511,
-                "home attack": 83.04550663807252,
-                "away attack": 92.20561648634263
+                "player difference": -4.8419771851201014,
+                "home attack": 81.96853877382911,
+                "away attack": 97.55218678696909
             }
         },
         "CD_M20240142302": {
@@ -3688,13 +3712,13 @@
             "round": 23,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -15.92,
-            "percentage": 30.93,
+            "predicted margin": -18.21,
+            "percentage": 28.45,
             "margin source": {
                 "home ground advantage": 6.753360764229724,
-                "player difference": -5.899607455137559,
-                "home attack": 78.27085069554967,
-                "away attack": 95.0438892143072
+                "player difference": -5.999957623578698,
+                "home attack": 77.09747167376892,
+                "away attack": 96.06210680262937
             }
         },
         "CD_M20240142303": {
@@ -3722,13 +3746,13 @@
             "round": 23,
             "year": 2024,
             "venue": "ES",
-            "predicted margin": -7.88,
-            "percentage": 40.27,
+            "predicted margin": 2.41,
+            "percentage": 53.01,
             "margin source": {
                 "home ground advantage": 9.708163940356563,
-                "player difference": -3.3995546371438934,
-                "home attack": 75.04070601551905,
-                "away attack": 89.22498937210834
+                "player difference": 2.015522762933378,
+                "home attack": 78.95346178065523,
+                "away attack": 88.2653355699856
             }
         },
         "CD_M20240142301": {
@@ -3739,13 +3763,13 @@
             "round": 23,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": -4.07,
-            "percentage": 44.93,
+            "predicted margin": -4.93,
+            "percentage": 43.88,
             "margin source": {
                 "home ground advantage": 7.513626632766599,
-                "player difference": -4.82939317042541,
-                "home attack": 80.23324051573282,
-                "away attack": 86.9875809966789
+                "player difference": -4.96777460884536,
+                "home attack": 85.06911650037958,
+                "away attack": 92.54227954736804
             }
         },
         "CD_M20240142306": {
@@ -3756,13 +3780,13 @@
             "round": 23,
             "year": 2024,
             "venue": "AO",
-            "predicted margin": 8.61,
-            "percentage": 60.61,
+            "predicted margin": 4.35,
+            "percentage": 55.41,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 3.661449344139467,
-                "home attack": 89.05028004907612,
-                "away attack": 84.10409230365948
+                "player difference": -1.3771039330961423,
+                "home attack": 89.01480217290792,
+                "away attack": 83.29117604255977
             }
         },
         "CD_M20240142307": {
@@ -3773,13 +3797,13 @@
             "round": 23,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": -1.84,
-            "percentage": 47.7,
+            "predicted margin": 2.1,
+            "percentage": 52.62,
             "margin source": {
                 "home ground advantage": 6.003532106321969,
-                "player difference": 0.034751822100881624,
-                "home attack": 76.80231314452533,
-                "away attack": 84.68289040782656
+                "player difference": 0.580116717616978,
+                "home attack": 82.17122449708214,
+                "away attack": 86.65249419485346
             }
         },
         "CD_M20240142309": {
@@ -3790,13 +3814,13 @@
             "round": 23,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": 51.57,
-            "percentage": 94.66,
+            "predicted margin": 55.2,
+            "percentage": 95.79,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 5.733107916170805,
-                "home attack": 114.86370825695637,
-                "away attack": 69.02733409748791
+                "player difference": 7.711906127908757,
+                "home attack": 120.21429058196797,
+                "away attack": 72.7245324946345
             }
         },
         "CD_M20240142305": {
@@ -3807,13 +3831,13 @@
             "round": 23,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": 23.66,
-            "percentage": 77.04,
+            "predicted margin": 25.14,
+            "percentage": 78.42,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 3.765653896366357,
-                "home attack": 94.26390860270801,
-                "away attack": 74.36594835227257
+                "player difference": 3.046584198097553,
+                "home attack": 95.27855162517584,
+                "away attack": 73.18639480448965
             }
         },
         "CD_M20240142308": {
@@ -3841,13 +3865,13 @@
             "round": 24,
             "year": 2024,
             "venue": "G",
-            "predicted margin": 27.34,
-            "percentage": 80.37,
+            "predicted margin": 24.21,
+            "percentage": 77.56,
             "margin source": {
                 "home ground advantage": 7.513626632766599,
-                "player difference": 2.4692943007915713,
-                "home attack": 92.43977764517743,
-                "away attack": 75.08686555925041
+                "player difference": 1.7893787892853275,
+                "home attack": 94.4281072072184,
+                "away attack": 79.51962150410584
             }
         },
         "CD_M20240142402": {
@@ -3858,13 +3882,13 @@
             "round": 24,
             "year": 2024,
             "venue": "MRVL",
-            "predicted margin": 15.64,
-            "percentage": 68.76,
+            "predicted margin": 12.05,
+            "percentage": 64.69,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 1.331006269435308,
-                "home attack": 86.63268606668282,
-                "away attack": 72.3285448996125
+                "player difference": 0.7856413739192116,
+                "home attack": 88.64763933215946,
+                "away attack": 77.38471482374877
             }
         },
         "CD_M20240142404": {
@@ -3892,13 +3916,13 @@
             "round": 24,
             "year": 2024,
             "venue": "UTAS",
-            "predicted margin": 46.36,
-            "percentage": 92.65,
+            "predicted margin": 43.64,
+            "percentage": 91.39,
             "margin source": {
                 "home ground advantage": 6.4403968586176505,
-                "player difference": 7.087332870279281,
-                "home attack": 102.8435050686825,
-                "away attack": 70.00649251339699
+                "player difference": 6.676325754825469,
+                "home attack": 103.5197031334797,
+                "away attack": 72.99877293700365
             }
         },
         "CD_M20240142406": {
@@ -3909,13 +3933,13 @@
             "round": 24,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": -6.12,
-            "percentage": 42.41,
+            "predicted margin": -2.25,
+            "percentage": 47.19,
             "margin source": {
                 "home ground advantage": 0.0,
-                "player difference": 2.474300169240325,
-                "home attack": 75.99504028258141,
-                "away attack": 84.5908509117257
+                "player difference": 3.292597119166519,
+                "home attack": 79.14542151879797,
+                "away attack": 84.68971162143701
             }
         },
         "CD_M20240142407": {
@@ -3926,13 +3950,13 @@
             "round": 24,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": -17.25,
-            "percentage": 29.48,
+            "predicted margin": -17.3,
+            "percentage": 29.42,
             "margin source": {
                 "home ground advantage": 7.477034538039114,
-                "player difference": -3.0057294501654956,
-                "home attack": 73.60357143861039,
-                "away attack": 95.32154685022091
+                "player difference": -1.8927693281597764,
+                "home attack": 72.9807450658178,
+                "away attack": 95.86503259294915
             }
         },
         "CD_M20240142408": {
@@ -3943,13 +3967,13 @@
             "round": 24,
             "year": 2024,
             "venue": "SCG",
-            "predicted margin": 32.81,
-            "percentage": 84.76,
+            "predicted margin": 34.77,
+            "percentage": 86.16,
             "margin source": {
                 "home ground advantage": 7.271589397027251,
-                "player difference": 10.334638145470889,
-                "home attack": 96.03743916460918,
-                "away attack": 80.82999973742344
+                "player difference": 7.584245587771939,
+                "home attack": 98.27440779266824,
+                "away attack": 78.36358367131244
             }
         },
         "CD_M20240142409": {
@@ -3960,13 +3984,13 @@
             "round": 24,
             "year": 2024,
             "venue": "MARS",
-            "predicted margin": 19.26,
-            "percentage": 72.65,
+            "predicted margin": 19.6,
+            "percentage": 73.01,
             "margin source": {
                 "home ground advantage": 6.818074343660223,
-                "player difference": 2.19712270041369,
-                "home attack": 93.23316399032882,
-                "away attack": 82.99012681297552
+                "player difference": 0.4015477565847526,
+                "home attack": 96.11483938406707,
+                "away attack": 83.73527496663642
             }
         },
         "CD_M20240142403": {
@@ -3977,34 +4001,34 @@
             "round": 24,
             "year": 2024,
             "venue": "OS",
-            "predicted margin": 19.47,
-            "percentage": 72.87,
+            "predicted margin": 19.05,
+            "percentage": 72.44,
             "margin source": {
                 "home ground advantage": 8.384513929974435,
-                "player difference": 2.4500067529222473,
-                "home attack": 87.22755650402246,
-                "away attack": 78.59321098523907
+                "player difference": 3.802010598698113,
+                "home attack": 88.00863205320813,
+                "away attack": 81.14498516682623
             }
         }
     },
     "simulation": {
         "0": {
             "year": 2024,
-            "round": 13,
+            "round": 14,
             "team": "Sydney",
             "team id": 15,
             "rank": 0,
-            "exp_wins": 18.8572,
-            "percentage": 138.9,
+            "exp_wins": 19.4062,
+            "percentage": 142.2,
             "positions": {
-                "0": 92.74,
-                "1": 5.35,
-                "2": 1.32,
-                "3": 0.35,
-                "4": 0.18,
-                "5": 0.03,
-                "6": 0.02,
-                "7": 0.01,
+                "0": 97.69,
+                "1": 1.94,
+                "2": 0.25,
+                "3": 0.1,
+                "4": 0.01,
+                "5": 0.01,
+                "6": 0.0,
+                "7": 0.0,
                 "8": 0.0,
                 "9": 0.0,
                 "10": 0.0,
@@ -4016,436 +4040,436 @@
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 37.65
+            "flag": 43.54
         },
         "1": {
             "year": 2024,
-            "round": 13,
+            "round": 14,
             "team": "Carlton",
             "team id": 2,
             "rank": 1,
-            "exp_wins": 15.815499999999997,
-            "percentage": 115.0,
+            "exp_wins": 15.661100000000003,
+            "percentage": 114.1,
             "positions": {
-                "0": 3.85,
-                "1": 45.62,
-                "2": 21.73,
-                "3": 11.69,
-                "4": 6.65,
-                "5": 4.12,
-                "6": 2.71,
-                "7": 1.64,
-                "8": 1.01,
-                "9": 0.58,
-                "10": 0.25,
-                "11": 0.1,
-                "12": 0.03,
-                "13": 0.01,
-                "14": 0.01,
-                "15": 0.0,
-                "16": 0.0,
-                "17": 0.0
-            },
-            "flag": 15.84
-        },
-        "2": {
-            "year": 2024,
-            "round": 13,
-            "team": "Fremantle",
-            "team id": 5,
-            "rank": 2,
-            "exp_wins": 14.853400000000004,
-            "percentage": 121.4,
-            "positions": {
-                "0": 2.26,
-                "1": 21.81,
-                "2": 23.9,
-                "3": 16.26,
-                "4": 10.81,
-                "5": 7.86,
-                "6": 5.83,
-                "7": 3.93,
-                "8": 2.69,
-                "9": 1.86,
-                "10": 1.3,
-                "11": 0.99,
-                "12": 0.39,
-                "13": 0.11,
+                "0": 1.52,
+                "1": 53.49,
+                "2": 17.86,
+                "3": 9.89,
+                "4": 6.02,
+                "5": 3.93,
+                "6": 2.6,
+                "7": 1.79,
+                "8": 1.3,
+                "9": 0.75,
+                "10": 0.51,
+                "11": 0.26,
+                "12": 0.06,
+                "13": 0.02,
                 "14": 0.0,
                 "15": 0.0,
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 16.53
+            "flag": 15.38
+        },
+        "2": {
+            "year": 2024,
+            "round": 14,
+            "team": "Fremantle",
+            "team id": 5,
+            "rank": 2,
+            "exp_wins": 13.907,
+            "percentage": 113.8,
+            "positions": {
+                "0": 0.25,
+                "1": 9.75,
+                "2": 15.7,
+                "3": 14.59,
+                "4": 11.83,
+                "5": 10.89,
+                "6": 8.67,
+                "7": 7.22,
+                "8": 6.85,
+                "9": 5.06,
+                "10": 3.75,
+                "11": 3.07,
+                "12": 1.81,
+                "13": 0.53,
+                "14": 0.03,
+                "15": 0.0,
+                "16": 0.0,
+                "17": 0.0
+            },
+            "flag": 7.38
         },
         "3": {
             "year": 2024,
-            "round": 13,
+            "round": 14,
+            "team": "Footscray",
+            "team id": 17,
+            "rank": 3,
+            "exp_wins": 13.1526,
+            "percentage": 121.8,
+            "positions": {
+                "0": 0.04,
+                "1": 4.71,
+                "2": 8.99,
+                "3": 11.02,
+                "4": 12.51,
+                "5": 11.53,
+                "6": 11.88,
+                "7": 9.72,
+                "8": 8.56,
+                "9": 7.71,
+                "10": 5.59,
+                "11": 4.32,
+                "12": 2.62,
+                "13": 0.76,
+                "14": 0.04,
+                "15": 0.0,
+                "16": 0.0,
+                "17": 0.0
+            },
+            "flag": 11.42
+        },
+        "4": {
+            "year": 2024,
+            "round": 14,
+            "team": "Brisbane",
+            "team id": 1,
+            "rank": 4,
+            "exp_wins": 13.2959,
+            "percentage": 117.9,
+            "positions": {
+                "0": 0.04,
+                "1": 4.93,
+                "2": 11.47,
+                "3": 11.72,
+                "4": 10.75,
+                "5": 11.17,
+                "6": 9.48,
+                "7": 8.41,
+                "8": 8.43,
+                "9": 7.24,
+                "10": 5.98,
+                "11": 4.8,
+                "12": 3.66,
+                "13": 1.75,
+                "14": 0.17,
+                "15": 0.0,
+                "16": 0.0,
+                "17": 0.0
+            },
+            "flag": 8.71
+        },
+        "5": {
+            "year": 2024,
+            "round": 14,
             "team": "Collingwood",
             "team id": 3,
-            "rank": 3,
-            "exp_wins": 13.880600000000001,
-            "percentage": 109.2,
+            "rank": 5,
+            "exp_wins": 13.544900000000002,
+            "percentage": 104.7,
             "positions": {
-                "0": 0.38,
-                "1": 7.82,
-                "2": 11.91,
-                "3": 13.93,
-                "4": 12.97,
-                "5": 11.98,
-                "6": 10.15,
-                "7": 9.03,
-                "8": 7.39,
-                "9": 5.86,
-                "10": 3.99,
-                "11": 2.81,
-                "12": 1.37,
-                "13": 0.36,
+                "0": 0.11,
+                "1": 5.96,
+                "2": 10.08,
+                "3": 10.65,
+                "4": 11.12,
+                "5": 10.59,
+                "6": 9.46,
+                "7": 9.0,
+                "8": 8.85,
+                "9": 7.28,
+                "10": 6.58,
+                "11": 5.66,
+                "12": 3.51,
+                "13": 1.1,
                 "14": 0.05,
                 "15": 0.0,
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 6.15
-        },
-        "4": {
-            "year": 2024,
-            "round": 13,
-            "team": "Brisbane",
-            "team id": 1,
-            "rank": 4,
-            "exp_wins": 13.515899999999998,
-            "percentage": 121.4,
-            "positions": {
-                "0": 0.17,
-                "1": 4.59,
-                "2": 11.04,
-                "3": 13.11,
-                "4": 13.03,
-                "5": 12.02,
-                "6": 11.01,
-                "7": 8.97,
-                "8": 8.02,
-                "9": 5.9,
-                "10": 4.93,
-                "11": 3.62,
-                "12": 2.44,
-                "13": 1.06,
-                "14": 0.09,
-                "15": 0.0,
-                "16": 0.0,
-                "17": 0.0
-            },
-            "flag": 12.02
-        },
-        "5": {
-            "year": 2024,
-            "round": 13,
-            "team": "Port Adelaide",
-            "team id": 12,
-            "rank": 5,
-            "exp_wins": 13.3968,
-            "percentage": 105.9,
-            "positions": {
-                "0": 0.23,
-                "1": 4.89,
-                "2": 8.33,
-                "3": 9.7,
-                "4": 11.28,
-                "5": 11.11,
-                "6": 9.57,
-                "7": 10.06,
-                "8": 9.08,
-                "9": 8.11,
-                "10": 7.14,
-                "11": 5.08,
-                "12": 3.69,
-                "13": 1.44,
-                "14": 0.29,
-                "15": 0.0,
-                "16": 0.0,
-                "17": 0.0
-            },
-            "flag": 2.76
+            "flag": 3.59
         },
         "6": {
             "year": 2024,
-            "round": 13,
-            "team": "Geelong",
-            "team id": 6,
+            "round": 14,
+            "team": "Essendon",
+            "team id": 4,
             "rank": 6,
-            "exp_wins": 13.3124,
-            "percentage": 107.1,
+            "exp_wins": 13.464899999999997,
+            "percentage": 100.2,
             "positions": {
-                "0": 0.08,
-                "1": 3.69,
-                "2": 6.63,
-                "3": 9.51,
-                "4": 11.46,
-                "5": 12.05,
-                "6": 11.75,
-                "7": 10.78,
-                "8": 9.98,
-                "9": 8.71,
-                "10": 6.79,
-                "11": 4.5,
-                "12": 2.84,
-                "13": 1.03,
-                "14": 0.19,
-                "15": 0.01,
+                "0": 0.19,
+                "1": 5.61,
+                "2": 9.54,
+                "3": 10.1,
+                "4": 10.05,
+                "5": 10.13,
+                "6": 10.26,
+                "7": 8.69,
+                "8": 8.54,
+                "9": 7.94,
+                "10": 7.17,
+                "11": 5.91,
+                "12": 4.18,
+                "13": 1.56,
+                "14": 0.13,
+                "15": 0.0,
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 1.59
+            "flag": 2.32
         },
         "7": {
             "year": 2024,
-            "round": 13,
-            "team": "Essendon",
-            "team id": 4,
+            "round": 14,
+            "team": "Geelong",
+            "team id": 6,
             "rank": 7,
-            "exp_wins": 13.4024,
-            "percentage": 99.8,
+            "exp_wins": 13.2337,
+            "percentage": 106.7,
             "positions": {
-                "0": 0.25,
-                "1": 3.51,
-                "2": 7.11,
-                "3": 9.89,
-                "4": 10.32,
-                "5": 11.56,
-                "6": 11.55,
-                "7": 9.88,
-                "8": 9.95,
-                "9": 8.41,
-                "10": 7.12,
-                "11": 5.44,
-                "12": 3.46,
-                "13": 1.28,
-                "14": 0.27,
-                "15": 0.0,
-                "16": 0.0,
-                "17": 0.0
-            },
-            "flag": 1.67
-        },
-        "8": {
-            "year": 2024,
-            "round": 13,
-            "team": "Footscray",
-            "team id": 17,
-            "rank": 8,
-            "exp_wins": 12.202200000000001,
-            "percentage": 115.7,
-            "positions": {
-                "0": 0.01,
-                "1": 0.89,
-                "2": 2.26,
-                "3": 4.86,
-                "4": 7.11,
-                "5": 8.39,
-                "6": 10.13,
-                "7": 11.05,
-                "8": 11.34,
-                "9": 11.94,
-                "10": 10.63,
-                "11": 10.04,
-                "12": 7.55,
-                "13": 3.14,
-                "14": 0.66,
-                "15": 0.0,
-                "16": 0.0,
-                "17": 0.0
-            },
-            "flag": 3.31
-        },
-        "9": {
-            "year": 2024,
-            "round": 13,
-            "team": "Gold Coast",
-            "team id": 7,
-            "rank": 9,
-            "exp_wins": 12.0947,
-            "percentage": 105.2,
-            "positions": {
-                "0": 0.0,
-                "1": 0.57,
-                "2": 2.01,
-                "3": 3.69,
-                "4": 5.25,
-                "5": 6.36,
-                "6": 8.5,
-                "7": 10.03,
-                "8": 10.79,
-                "9": 12.02,
-                "10": 12.49,
-                "11": 12.72,
-                "12": 10.51,
-                "13": 4.26,
-                "14": 0.79,
+                "0": 0.06,
+                "1": 5.57,
+                "2": 8.67,
+                "3": 9.23,
+                "4": 9.99,
+                "5": 9.49,
+                "6": 9.7,
+                "7": 10.22,
+                "8": 8.74,
+                "9": 8.6,
+                "10": 7.89,
+                "11": 6.08,
+                "12": 4.11,
+                "13": 1.51,
+                "14": 0.13,
                 "15": 0.01,
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 0.88
+            "flag": 1.63
         },
-        "10": {
+        "8": {
             "year": 2024,
-            "round": 13,
-            "team": "Melbourne",
-            "team id": 10,
-            "rank": 10,
-            "exp_wins": 12.177700000000002,
-            "percentage": 101.6,
+            "round": 14,
+            "team": "GWS",
+            "team id": 8,
+            "rank": 8,
+            "exp_wins": 12.835,
+            "percentage": 107.1,
             "positions": {
-                "0": 0.02,
-                "1": 0.47,
-                "2": 1.68,
-                "3": 3.35,
-                "4": 4.66,
-                "5": 5.92,
-                "6": 7.23,
-                "7": 9.57,
-                "8": 10.45,
-                "9": 12.06,
-                "10": 13.26,
-                "11": 13.68,
-                "12": 11.96,
-                "13": 4.92,
-                "14": 0.77,
+                "0": 0.06,
+                "1": 3.6,
+                "2": 6.6,
+                "3": 7.21,
+                "4": 8.01,
+                "5": 9.16,
+                "6": 9.03,
+                "7": 9.69,
+                "8": 9.52,
+                "9": 10.18,
+                "10": 9.35,
+                "11": 8.22,
+                "12": 6.7,
+                "13": 2.41,
+                "14": 0.26,
                 "15": 0.0,
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 0.88
+            "flag": 2.07
+        },
+        "9": {
+            "year": 2024,
+            "round": 14,
+            "team": "Port Adelaide",
+            "team id": 12,
+            "rank": 9,
+            "exp_wins": 12.4372,
+            "percentage": 102.7,
+            "positions": {
+                "0": 0.03,
+                "1": 1.91,
+                "2": 3.49,
+                "3": 4.82,
+                "4": 5.69,
+                "5": 6.9,
+                "6": 7.79,
+                "7": 8.95,
+                "8": 9.88,
+                "9": 10.33,
+                "10": 11.59,
+                "11": 11.73,
+                "12": 10.74,
+                "13": 5.34,
+                "14": 0.81,
+                "15": 0.0,
+                "16": 0.0,
+                "17": 0.0
+            },
+            "flag": 1.03
+        },
+        "10": {
+            "year": 2024,
+            "round": 14,
+            "team": "Gold Coast",
+            "team id": 7,
+            "rank": 10,
+            "exp_wins": 12.192499999999999,
+            "percentage": 105.6,
+            "positions": {
+                "0": 0.01,
+                "1": 1.32,
+                "2": 3.32,
+                "3": 4.52,
+                "4": 5.57,
+                "5": 5.66,
+                "6": 7.86,
+                "7": 9.23,
+                "8": 9.53,
+                "9": 11.57,
+                "10": 11.61,
+                "11": 12.19,
+                "12": 12.1,
+                "13": 4.96,
+                "14": 0.52,
+                "15": 0.03,
+                "16": 0.0,
+                "17": 0.0
+            },
+            "flag": 1.08
         },
         "11": {
             "year": 2024,
-            "round": 13,
-            "team": "GWS",
-            "team id": 8,
+            "round": 14,
+            "team": "Melbourne",
+            "team id": 10,
             "rank": 11,
-            "exp_wins": 11.719400000000002,
-            "percentage": 102.9,
+            "exp_wins": 12.1282,
+            "percentage": 101.2,
             "positions": {
-                "0": 0.01,
-                "1": 0.64,
-                "2": 1.37,
-                "3": 2.46,
-                "4": 3.77,
-                "5": 4.44,
-                "6": 6.3,
-                "7": 7.26,
-                "8": 9.37,
-                "9": 10.74,
-                "10": 12.67,
-                "11": 14.53,
-                "12": 15.73,
-                "13": 8.63,
-                "14": 2.06,
+                "0": 0.0,
+                "1": 0.74,
+                "2": 2.52,
+                "3": 3.52,
+                "4": 4.57,
+                "5": 5.52,
+                "6": 6.51,
+                "7": 8.04,
+                "8": 8.76,
+                "9": 10.48,
+                "10": 12.06,
+                "11": 13.91,
+                "12": 15.18,
+                "13": 7.34,
+                "14": 0.85,
+                "15": 0.0,
+                "16": 0.0,
+                "17": 0.0
+            },
+            "flag": 0.87
+        },
+        "12": {
+            "year": 2024,
+            "round": 14,
+            "team": "Hawthorn",
+            "team id": 9,
+            "rank": 12,
+            "exp_wins": 12.110999999999999,
+            "percentage": 98.9,
+            "positions": {
+                "0": 0.0,
+                "1": 0.47,
+                "2": 1.5,
+                "3": 2.6,
+                "4": 3.79,
+                "5": 4.79,
+                "6": 6.37,
+                "7": 8.37,
+                "8": 9.61,
+                "9": 10.48,
+                "10": 13.36,
+                "11": 15.23,
+                "12": 15.07,
+                "13": 7.35,
+                "14": 0.99,
                 "15": 0.02,
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 0.32
-        },
-        "12": {
-            "year": 2024,
-            "round": 13,
-            "team": "Hawthorn",
-            "team id": 9,
-            "rank": 12,
-            "exp_wins": 11.723300000000002,
-            "percentage": 97.0,
-            "positions": {
-                "0": 0.0,
-                "1": 0.15,
-                "2": 0.71,
-                "3": 1.17,
-                "4": 2.41,
-                "5": 3.95,
-                "6": 4.69,
-                "7": 6.91,
-                "8": 8.55,
-                "9": 11.09,
-                "10": 14.17,
-                "11": 17.09,
-                "12": 17.27,
-                "13": 9.19,
-                "14": 2.61,
-                "15": 0.04,
-                "16": 0.0,
-                "17": 0.0
-            },
-            "flag": 0.39
+            "flag": 0.95
         },
         "13": {
             "year": 2024,
-            "round": 13,
+            "round": 14,
             "team": "St Kilda",
             "team id": 14,
             "rank": 13,
-            "exp_wins": 9.314900000000002,
-            "percentage": 93.4,
+            "exp_wins": 9.6108,
+            "percentage": 96.3,
             "positions": {
                 "0": 0.0,
                 "1": 0.0,
-                "2": 0.0,
+                "2": 0.01,
                 "3": 0.03,
-                "4": 0.05,
-                "5": 0.14,
-                "6": 0.43,
-                "7": 0.65,
-                "8": 1.03,
-                "9": 1.88,
-                "10": 3.68,
-                "11": 6.3,
-                "12": 14.67,
-                "13": 39.5,
-                "14": 29.81,
-                "15": 1.69,
-                "16": 0.14,
+                "4": 0.09,
+                "5": 0.23,
+                "6": 0.38,
+                "7": 0.62,
+                "8": 1.34,
+                "9": 2.14,
+                "10": 4.0,
+                "11": 7.19,
+                "12": 16.12,
+                "13": 46.46,
+                "14": 20.45,
+                "15": 0.86,
+                "16": 0.08,
                 "17": 0.0
             },
-            "flag": 0.01
+            "flag": 0.03
         },
         "14": {
             "year": 2024,
-            "round": 13,
+            "round": 14,
             "team": "Adelaide",
             "team id": 0,
             "rank": 14,
-            "exp_wins": 8.383099999999999,
-            "percentage": 98.6,
+            "exp_wins": 7.949,
+            "percentage": 96.8,
             "positions": {
                 "0": 0.0,
                 "1": 0.0,
                 "2": 0.0,
                 "3": 0.0,
-                "4": 0.05,
-                "5": 0.07,
-                "6": 0.13,
-                "7": 0.23,
-                "8": 0.35,
-                "9": 0.84,
-                "10": 1.58,
-                "11": 3.09,
-                "12": 8.06,
-                "13": 24.33,
-                "14": 54.3,
-                "15": 6.3,
-                "16": 0.67,
+                "4": 0.0,
+                "5": 0.0,
+                "6": 0.01,
+                "7": 0.05,
+                "8": 0.09,
+                "9": 0.24,
+                "10": 0.56,
+                "11": 1.41,
+                "12": 4.07,
+                "13": 18.36,
+                "14": 67.12,
+                "15": 7.43,
+                "16": 0.66,
                 "17": 0.0
             },
             "flag": 0.0
         },
         "15": {
             "year": 2024,
-            "round": 13,
+            "round": 14,
             "team": "West Coast",
             "team id": 16,
             "rank": 15,
-            "exp_wins": 5.3658,
-            "percentage": 73.8,
+            "exp_wins": 5.279800000000001,
+            "percentage": 73.5,
             "positions": {
                 "0": 0.0,
                 "1": 0.0,
@@ -4458,24 +4482,24 @@
                 "8": 0.0,
                 "9": 0.0,
                 "10": 0.0,
-                "11": 0.01,
-                "12": 0.03,
-                "13": 0.53,
-                "14": 6.17,
-                "15": 64.74,
-                "16": 26.71,
-                "17": 1.81
+                "11": 0.02,
+                "12": 0.07,
+                "13": 0.5,
+                "14": 6.98,
+                "15": 68.58,
+                "16": 21.5,
+                "17": 2.35
             },
             "flag": 0.0
         },
         "16": {
             "year": 2024,
-            "round": 13,
+            "round": 14,
             "team": "Richmond",
             "team id": 13,
             "rank": 16,
-            "exp_wins": 4.4979000000000005,
-            "percentage": 69.6,
+            "exp_wins": 4.136,
+            "percentage": 68.2,
             "positions": {
                 "0": 0.0,
                 "1": 0.0,
@@ -4490,22 +4514,22 @@
                 "10": 0.0,
                 "11": 0.0,
                 "12": 0.0,
-                "13": 0.21,
-                "14": 1.91,
-                "15": 25.5,
-                "16": 63.21,
-                "17": 9.17
+                "13": 0.05,
+                "14": 1.42,
+                "15": 19.9,
+                "16": 61.89,
+                "17": 16.74
             },
             "flag": 0.0
         },
         "17": {
             "year": 2024,
-            "round": 13,
+            "round": 14,
             "team": "North Melbourne",
             "team id": 11,
             "rank": 17,
-            "exp_wins": 2.4867999999999997,
-            "percentage": 60.0,
+            "exp_wins": 2.6542000000000003,
+            "percentage": 62.9,
             "positions": {
                 "0": 0.0,
                 "1": 0.0,
@@ -4521,32 +4545,32 @@
                 "11": 0.0,
                 "12": 0.0,
                 "13": 0.0,
-                "14": 0.02,
-                "15": 1.69,
-                "16": 9.27,
-                "17": 89.02
+                "14": 0.05,
+                "15": 3.17,
+                "16": 15.87,
+                "17": 80.91
             },
             "flag": 0.0
         }
     },
     "ratings": {
-        "Adelaide": -3.62,
-        "Brisbane": 20.45,
-        "Carlton": 11.12,
-        "Collingwood": 7.86,
-        "Essendon": -0.86,
-        "Fremantle": 16.71,
-        "Geelong": 2.02,
-        "Gold Coast": 2.32,
-        "GWS": -1.81,
-        "Hawthorn": 1.23,
-        "Melbourne": 1.0,
-        "North Melbourne": -41.73,
-        "Port Adelaide": 5.49,
-        "Richmond": -24.24,
-        "St Kilda": -6.02,
-        "Sydney": 23.42,
-        "West Coast": -24.64,
-        "Footscray": 11.28
+        "Adelaide": -3.75,
+        "Brisbane": 16.58,
+        "Carlton": 10.6,
+        "Collingwood": 3.11,
+        "Essendon": -1.46,
+        "Fremantle": 11.98,
+        "Geelong": 1.43,
+        "Gold Coast": 1.73,
+        "GWS": 4.23,
+        "Hawthorn": 2.16,
+        "Melbourne": 0.42,
+        "North Melbourne": -38.14,
+        "Port Adelaide": 0.87,
+        "Richmond": -25.12,
+        "St Kilda": -2.6,
+        "Sydney": 25.46,
+        "West Coast": -25.4,
+        "Footscray": 17.91
     }
 }
