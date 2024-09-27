@@ -1,11 +1,11 @@
 {
     "info": {
         "total results": {
-            "correct": 137,
-            "total": 213,
-            "percentage": 64.32,
-            "mae": 27.11,
-            "bits": 27
+            "correct": 139,
+            "total": 215,
+            "percentage": 64.65,
+            "mae": 27.0,
+            "bits": 28
         },
         "games": {
             "CD_M20240140001": {
@@ -962,13 +962,13 @@
                 "venue": "OS",
                 "tip info": {
                     "margin": 39,
-                    "predicted margin": 6.73,
-                    "percentage": 41.67,
-                    "off by": 45.730000000000004,
-                    "Bits": -0.2629189948469006,
+                    "predicted margin": 6.7,
+                    "percentage": 41.7,
+                    "off by": 45.7,
+                    "Bits": -0.2618807112174233,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": -2.8432422982144745,
+                        "player difference": -2.8209752490041633,
                         "home attack": 82.21812501818302,
                         "away attack": 95.16916370927491
                     }
@@ -1095,8 +1095,8 @@
                     "margin source": {
                         "home ground advantage": 0.0,
                         "player difference": -2.7413939922516435,
-                        "home attack": 69.8765916443933,
-                        "away attack": 92.50437550670141
+                        "home attack": 69.87545433819336,
+                        "away attack": 92.50529962294594
                     }
                 }
             },
@@ -1151,15 +1151,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -43,
-                    "predicted margin": 26.45,
-                    "percentage": 20.4,
-                    "off by": 16.55,
-                    "Bits": 0.6708403358815619,
+                    "predicted margin": 26.47,
+                    "percentage": 20.38,
+                    "off by": 16.53,
+                    "Bits": 0.6712027765419002,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -4.127189324076122,
-                        "home attack": 72.9317013018517,
-                        "away attack": 95.25824439714843
+                        "player difference": -4.145002963444376,
+                        "home attack": 72.9323680133457,
+                        "away attack": 95.25663450290659
                     }
                 }
             },
@@ -1284,8 +1284,8 @@
                     "margin source": {
                         "home ground advantage": 9.064837887794308,
                         "player difference": -6.39137475497655,
-                        "home attack": 78.02630624398172,
-                        "away attack": 80.31653982143685
+                        "home attack": 78.02625273496211,
+                        "away attack": 80.31669822277819
                     }
                 }
             },
@@ -1305,8 +1305,8 @@
                     "margin source": {
                         "home ground advantage": 0,
                         "player difference": 8.965041025741305,
-                        "home attack": 93.55518747328895,
-                        "away attack": 78.92327443536668
+                        "home attack": 93.55602916735079,
+                        "away attack": 78.92221255159129
                     }
                 }
             },
@@ -1382,13 +1382,13 @@
                 "venue": "SCG",
                 "tip info": {
                     "margin": 29,
-                    "predicted margin": 3.19,
-                    "percentage": 53.97,
-                    "off by": 25.81,
-                    "Bits": 0.11022959242318886,
+                    "predicted margin": 3.2,
+                    "percentage": 53.98,
+                    "off by": 25.8,
+                    "Bits": 0.11049688191740203,
                     "margin source": {
                         "home ground advantage": 5.947122320736386,
-                        "player difference": -4.017248016387835,
+                        "player difference": -4.010122560640531,
                         "home attack": 92.55991019874378,
                         "away attack": 91.30156077659771
                     }
@@ -1431,8 +1431,8 @@
                     "margin source": {
                         "home ground advantage": 6.006295764884293,
                         "player difference": -0.7676170534753353,
-                        "home attack": 80.90850250373938,
-                        "away attack": 81.80835703829759
+                        "home attack": 80.90805987088412,
+                        "away attack": 81.80899780406953
                     }
                 }
             },
@@ -1452,8 +1452,8 @@
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
                         "player difference": -8.587308734670486,
-                        "home attack": 83.82770671649749,
-                        "away attack": 91.03963891619439
+                        "home attack": 83.826654290377,
+                        "away attack": 91.04037918908202
                     }
                 }
             },
@@ -1466,15 +1466,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -54,
-                    "predicted margin": 8.88,
-                    "percentage": 39.06,
-                    "off by": 45.12,
-                    "Bits": 0.2854614051370361,
+                    "predicted margin": 8.89,
+                    "percentage": 39.04,
+                    "off by": 45.11,
+                    "Bits": 0.2859348079438727,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": -2.9784658779260265,
-                        "home attack": 73.18084350009107,
-                        "away attack": 88.15246048313125
+                        "player difference": -2.9933105773995794,
+                        "home attack": 73.18233348921383,
+                        "away attack": 88.15041763122895
                     }
                 }
             },
@@ -1494,8 +1494,8 @@
                     "margin source": {
                         "home ground advantage": 5.932936724818378,
                         "player difference": 0.14356335292923667,
-                        "home attack": 90.3235998503675,
-                        "away attack": 75.14361130041071
+                        "home attack": 90.32358440114608,
+                        "away attack": 75.14361673519647
                     }
                 }
             },
@@ -1515,8 +1515,8 @@
                     "margin source": {
                         "home ground advantage": 6.005773669238617,
                         "player difference": -9.081379212124766,
-                        "home attack": 82.54620864587208,
-                        "away attack": 79.08740574678659
+                        "home attack": 82.5462933606741,
+                        "away attack": 79.08734140629808
                     }
                 }
             },
@@ -1529,15 +1529,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": 1,
-                    "predicted margin": 3.02,
-                    "percentage": 46.23,
-                    "off by": 4.02,
-                    "Bits": -0.11309873231350798,
+                    "predicted margin": 3.03,
+                    "percentage": 46.22,
+                    "off by": 4.029999999999999,
+                    "Bits": -0.11341083508181837,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -0.4346033182537241,
-                        "home attack": 81.38755104858677,
-                        "away attack": 83.97644518934966
+                        "player difference": -0.44291634995890594,
+                        "home attack": 81.38813532630174,
+                        "away attack": 83.97602770456731
                     }
                 }
             },
@@ -1550,15 +1550,15 @@
                 "venue": "GMHBA",
                 "tip info": {
                     "margin": -6,
-                    "predicted margin": 14.14,
-                    "percentage": 67.08,
-                    "off by": 20.14,
-                    "Bits": -0.6029637591278234,
+                    "predicted margin": 14.15,
+                    "percentage": 67.09,
+                    "off by": 20.15,
+                    "Bits": -0.6034020684251005,
                     "margin source": {
                         "home ground advantage": 6.653930691497833,
-                        "player difference": 2.778185506473299,
-                        "home attack": 91.47383475586588,
-                        "away attack": 86.76780780121652
+                        "player difference": 2.786498538178481,
+                        "home attack": 91.47377620401603,
+                        "away attack": 86.76784897230156
                     }
                 }
             },
@@ -1578,8 +1578,8 @@
                     "margin source": {
                         "home ground advantage": 9.724124467071597,
                         "player difference": -5.385148007876067,
-                        "home attack": 79.24378492753533,
-                        "away attack": 84.80295904776865
+                        "home attack": 79.2433801650793,
+                        "away attack": 84.80328871247723
                     }
                 }
             },
@@ -1599,8 +1599,8 @@
                     "margin source": {
                         "home ground advantage": 6.4403968586176505,
                         "player difference": -3.2651288564169607,
-                        "home attack": 74.56280596679595,
-                        "away attack": 81.37041929940384
+                        "home attack": 74.56280518597245,
+                        "away attack": 81.37042041588262
                     }
                 }
             },
@@ -1613,15 +1613,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": 20,
-                    "predicted margin": 13.72,
+                    "predicted margin": 13.71,
                     "percentage": 33.4,
-                    "off by": 33.72,
+                    "off by": 33.71,
                     "Bits": -0.5820799921880351,
                     "margin source": {
                         "home ground advantage": 6.744513689193731,
-                        "player difference": -8.78095312669983,
-                        "home attack": 82.36826668597142,
-                        "away attack": 94.04731553080563
+                        "player difference": -8.773827670952526,
+                        "home attack": 82.36788906723885,
+                        "away attack": 94.04764000001529
                     }
                 }
             },
@@ -1634,15 +1634,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -91,
-                    "predicted margin": 13.47,
-                    "percentage": 33.68,
-                    "off by": 77.53,
-                    "Bits": 0.407515911946301,
+                    "predicted margin": 13.48,
+                    "percentage": 33.67,
+                    "off by": 77.52,
+                    "Bits": 0.4077334309879327,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 0.9717025387815709,
-                        "home attack": 81.30384976433044,
-                        "away attack": 95.74325268292077
+                        "player difference": 0.9589785106613913,
+                        "home attack": 81.30591496201386,
+                        "away attack": 95.74025893846203
                     }
                 }
             },
@@ -1662,8 +1662,8 @@
                     "margin source": {
                         "home ground advantage": 9.566059163319085,
                         "player difference": 6.543523499374336,
-                        "home attack": 105.64510998711579,
-                        "away attack": 73.07011423569473
+                        "home attack": 105.64502653551432,
+                        "away attack": 73.0701823859838
                     }
                 }
             },
@@ -1683,8 +1683,8 @@
                     "margin source": {
                         "home ground advantage": 9.064837887794308,
                         "player difference": 6.757394503216908,
-                        "home attack": 98.23086198025442,
-                        "away attack": 76.01174898505698
+                        "home attack": 98.23158067156518,
+                        "away attack": 76.01084083813106
                     }
                 }
             },
@@ -1704,8 +1704,8 @@
                     "margin source": {
                         "home ground advantage": 7.775823112997701,
                         "player difference": 6.667248563049097,
-                        "home attack": 76.75005638442052,
-                        "away attack": 90.78477503751623
+                        "home attack": 76.75005972443374,
+                        "away attack": 90.78476475204464
                     }
                 }
             },
@@ -1718,15 +1718,15 @@
                 "venue": "TIO",
                 "tip info": {
                     "margin": 64,
-                    "predicted margin": 2.82,
-                    "percentage": 53.51,
-                    "off by": 61.18,
-                    "Bits": 0.09788043405191316,
+                    "predicted margin": 2.81,
+                    "percentage": 53.5,
+                    "off by": 61.19,
+                    "Bits": 0.09761079662642236,
                     "margin source": {
                         "home ground advantage": 9.574961248414018,
-                        "player difference": -0.16796680430132643,
-                        "home attack": 82.05854704743994,
-                        "away attack": 88.64605403446903
+                        "player difference": -0.17627983600650826,
+                        "home attack": 82.05896983309994,
+                        "away attack": 88.64576025402401
                     }
                 }
             },
@@ -1739,15 +1739,15 @@
                 "venue": "SCG",
                 "tip info": {
                     "margin": 52,
-                    "predicted margin": 16.36,
-                    "percentage": 69.55,
-                    "off by": 35.64,
-                    "Bits": 0.476122419880152,
+                    "predicted margin": 16.37,
+                    "percentage": 69.57,
+                    "off by": 35.629999999999995,
+                    "Bits": 0.4765372258177103,
                     "margin source": {
                         "home ground advantage": 6.750615492829974,
-                        "player difference": 2.316190727000535,
-                        "home attack": 92.21290892893977,
-                        "away attack": 84.92381711094359
+                        "player difference": 2.3304416384951305,
+                        "home attack": 92.21221168988649,
+                        "away attack": 84.92433620912621
                     }
                 }
             },
@@ -1767,8 +1767,8 @@
                     "margin source": {
                         "home ground advantage": 6.686802515607505,
                         "player difference": 1.5934029440226576,
-                        "home attack": 92.87370919403281,
-                        "away attack": 81.02804648982229
+                        "home attack": 92.87365787121134,
+                        "away attack": 81.02810458042221
                     }
                 }
             },
@@ -1788,8 +1788,8 @@
                     "margin source": {
                         "home ground advantage": 6.744513689193731,
                         "player difference": 5.046582344751781,
-                        "home attack": 88.95286372232101,
-                        "away attack": 90.61454155377024
+                        "home attack": 88.95350798042166,
+                        "away attack": 90.61344066800817
                     }
                 }
             },
@@ -1802,15 +1802,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": -17,
-                    "predicted margin": 3.66,
-                    "percentage": 54.55,
-                    "off by": 20.66,
-                    "Bits": -0.13764780046797997,
+                    "predicted margin": 3.64,
+                    "percentage": 54.54,
+                    "off by": 20.64,
+                    "Bits": -0.13733041073160157,
                     "margin source": {
                         "home ground advantage": 9.064837887794308,
-                        "player difference": -0.3099868579406249,
-                        "home attack": 70.65610753131256,
-                        "away attack": 75.75501843949151
+                        "player difference": -0.3242377694352206,
+                        "home attack": 70.6566036141709,
+                        "away attack": 75.75443981558259
                     }
                 }
             },
@@ -1829,9 +1829,9 @@
                     "Bits": 0.8914191868460786,
                     "margin source": {
                         "home ground advantage": 7.513626632766599,
-                        "player difference": 2.6262310524400436,
-                        "home attack": 104.49984309312096,
-                        "away attack": 68.04175144887336
+                        "player difference": 2.6373645770451994,
+                        "home attack": 104.49584318363692,
+                        "away attack": 68.04375611456344
                     }
                 }
             },
@@ -1851,8 +1851,8 @@
                     "margin source": {
                         "home ground advantage": 0.0,
                         "player difference": 10.879781927631187,
-                        "home attack": 105.50152493511945,
-                        "away attack": 73.68759812288019
+                        "home attack": 105.50107127152054,
+                        "away attack": 73.68780560889064
                     }
                 }
             },
@@ -1872,8 +1872,8 @@
                     "margin source": {
                         "home ground advantage": 6.686802515607505,
                         "player difference": 3.201097406648894,
-                        "home attack": 92.82738603621173,
-                        "away attack": 77.53552524754626
+                        "home attack": 92.8278520314681,
+                        "away attack": 77.53522739497463
                     }
                 }
             },
@@ -1886,15 +1886,15 @@
                 "venue": "OS",
                 "tip info": {
                     "margin": 35,
-                    "predicted margin": 26.51,
-                    "percentage": 20.35,
-                    "off by": 61.510000000000005,
-                    "Bits": -1.29689930039584,
+                    "predicted margin": 26.52,
+                    "percentage": 20.34,
+                    "off by": 61.519999999999996,
+                    "Bits": -1.2976084156919492,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": -9.653755548331022,
-                        "home attack": 65.97048755897816,
-                        "away attack": 91.89412641912143
+                        "player difference": -9.662068580036204,
+                        "home attack": 65.9703897002212,
+                        "away attack": 91.89392817881861
                     }
                 }
             },
@@ -1907,15 +1907,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": -14,
-                    "predicted margin": 1.62,
-                    "percentage": 47.98,
-                    "off by": 12.379999999999999,
-                    "Bits": 0.05713830439354173,
+                    "predicted margin": 1.64,
+                    "percentage": 47.96,
+                    "off by": 12.36,
+                    "Bits": 0.057692867168345874,
                     "margin source": {
                         "home ground advantage": 6.753360764229724,
-                        "player difference": -2.7163820743317846,
-                        "home attack": 84.64037025919974,
-                        "away attack": 90.2997787614203
+                        "player difference": -2.7306329858263925,
+                        "home attack": 84.64089071045926,
+                        "away attack": 90.29905372505378
                     }
                 }
             },
@@ -1928,15 +1928,15 @@
                 "venue": "OS",
                 "tip info": {
                     "margin": 0,
-                    "predicted margin": 10.36,
-                    "percentage": 62.7,
-                    "off by": 10.36,
-                    "Bits": -0.04810755813344869,
+                    "predicted margin": 10.37,
+                    "percentage": 62.71,
+                    "off by": 10.37,
+                    "Bits": -0.04818593653996417,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": 1.3684998562447441,
-                        "home attack": 77.91094898976019,
-                        "away attack": 77.99257068577036
+                        "player difference": 1.3827507677393398,
+                        "home attack": 77.90957415798773,
+                        "away attack": 77.99348364062836
                     }
                 }
             },
@@ -1956,8 +1956,8 @@
                     "margin source": {
                         "home ground advantage": 7.273655057521878,
                         "player difference": -8.499834298584572,
-                        "home attack": 73.59722263654012,
-                        "away attack": 117.05253079471035
+                        "home attack": 73.59693971948776,
+                        "away attack": 117.05313838953855
                     }
                 }
             },
@@ -1977,8 +1977,8 @@
                     "margin source": {
                         "home ground advantage": 7.479007068402879,
                         "player difference": 0.021987720377498233,
-                        "home attack": 88.42162065782964,
-                        "away attack": 89.2330798068416
+                        "home attack": 88.42211943723669,
+                        "away attack": 89.23253714710683
                     }
                 }
             },
@@ -1992,14 +1992,14 @@
                 "tip info": {
                     "margin": -4,
                     "predicted margin": 15.89,
-                    "percentage": 69.05,
+                    "percentage": 69.04,
                     "off by": 19.89,
-                    "Bits": -0.6919886854478223,
+                    "Bits": -0.6915226234050391,
                     "margin source": {
                         "home ground advantage": 6.818758626865653,
-                        "player difference": 1.9587847785528145,
-                        "home attack": 95.63227191072484,
-                        "away attack": 88.5162812803487
+                        "player difference": 1.9599723545106924,
+                        "home attack": 95.63086540449113,
+                        "away attack": 88.51780050388234
                     }
                 }
             },
@@ -2012,15 +2012,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -12,
-                    "predicted margin": 27.75,
-                    "percentage": 19.27,
-                    "off by": 15.75,
-                    "Bits": 0.6911767968121243,
+                    "predicted margin": 27.76,
+                    "percentage": 19.26,
+                    "off by": 15.760000000000002,
+                    "Bits": 0.6913554919310607,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -3.0668731908364735,
-                        "home attack": 72.23402515140685,
-                        "away attack": 96.92190751026378
+                        "player difference": -3.076769657152167,
+                        "home attack": 72.2367275825677,
+                        "away attack": 96.91752990091409
                     }
                 }
             },
@@ -2040,8 +2040,8 @@
                     "margin source": {
                         "home ground advantage": 1.5825277772852022,
                         "player difference": 1.15303094655289,
-                        "home attack": 69.52127140565469,
-                        "away attack": 91.55760659464518
+                        "home attack": 69.52156193507656,
+                        "away attack": 91.55742571735996
                     }
                 }
             },
@@ -2055,14 +2055,14 @@
                 "tip info": {
                     "margin": 38,
                     "predicted margin": 14.17,
-                    "percentage": 67.13,
+                    "percentage": 67.12,
                     "off by": 23.83,
-                    "Bits": 0.4250295475262855,
+                    "Bits": 0.4248146208903739,
                     "margin source": {
                         "home ground advantage": 0.0,
                         "player difference": 3.775848275758456,
-                        "home attack": 79.21347734549798,
-                        "away attack": 68.81453716767346
+                        "home attack": 79.21169320136342,
+                        "away attack": 68.8162627450428
                     }
                 }
             },
@@ -2076,14 +2076,14 @@
                 "tip info": {
                     "margin": 99,
                     "predicted margin": 25.25,
-                    "percentage": 78.51,
+                    "percentage": 78.52,
                     "off by": 73.75,
-                    "Bits": 0.6509483302197416,
+                    "Bits": 0.6511320779167217,
                     "margin source": {
                         "home ground advantage": 8.384513929974435,
                         "player difference": 4.917612117872539,
-                        "home attack": 91.8303532044992,
-                        "away attack": 79.88598007066824
+                        "home attack": 91.83063359010522,
+                        "away attack": 79.8858432492
                     }
                 }
             },
@@ -2103,8 +2103,8 @@
                     "margin source": {
                         "home ground advantage": 6.686802515607505,
                         "player difference": -2.108401970358337,
-                        "home attack": 89.58739353960839,
-                        "away attack": 87.99725245640175
+                        "home attack": 89.5868242386904,
+                        "away attack": 87.9977647318908
                     }
                 }
             },
@@ -2124,8 +2124,8 @@
                     "margin source": {
                         "home ground advantage": 0.0,
                         "player difference": 0.6889436689390486,
-                        "home attack": 84.68456992046926,
-                        "away attack": 85.72174813195903
+                        "home attack": 84.68494002994714,
+                        "away attack": 85.72171585455698
                     }
                 }
             },
@@ -2145,8 +2145,8 @@
                     "margin source": {
                         "home ground advantage": 6.686802515607505,
                         "player difference": 1.1029941591051904,
-                        "home attack": 78.63808382717401,
-                        "away attack": 88.05054506605006
+                        "home attack": 78.63808456052341,
+                        "away attack": 88.05049232141337
                     }
                 }
             },
@@ -2160,14 +2160,14 @@
                 "tip info": {
                     "margin": -14,
                     "predicted margin": 4.75,
-                    "percentage": 44.1,
+                    "percentage": 44.09,
                     "off by": 9.25,
-                    "Bits": 0.16092018818110287,
+                    "Bits": 0.16117825007981246,
                     "margin source": {
                         "home ground advantage": 9.064837887794308,
                         "player difference": -6.1079219153861795,
-                        "home attack": 75.29911792096652,
-                        "away attack": 83.00424675563478
+                        "home attack": 75.29838567721522,
+                        "away attack": 83.0048298630541
                     }
                 }
             },
@@ -2180,15 +2180,15 @@
                 "venue": "GMHBA",
                 "tip info": {
                     "margin": 30,
-                    "predicted margin": 44.44,
+                    "predicted margin": 44.45,
                     "percentage": 91.78,
-                    "off by": 14.439999999999998,
+                    "off by": 14.450000000000003,
                     "Bits": 0.8762517118628231,
                     "margin source": {
                         "home ground advantage": 6.006295764884293,
-                        "player difference": 7.95327418730456,
-                        "home attack": 108.11768082765956,
-                        "away attack": 77.63225692396941
+                        "player difference": 7.963368582946571,
+                        "home attack": 108.11230496663615,
+                        "away attack": 77.636103982895
                     }
                 }
             },
@@ -2201,15 +2201,15 @@
                 "venue": "TP",
                 "tip info": {
                     "margin": -92,
-                    "predicted margin": 12.83,
-                    "percentage": 65.59,
-                    "off by": 104.83,
-                    "Bits": -0.5391002028124683,
+                    "predicted margin": 12.8,
+                    "percentage": 65.55,
+                    "off by": 104.8,
+                    "Bits": -0.5374241119577956,
                     "margin source": {
                         "home ground advantage": 8.223268649071104,
-                        "player difference": 1.953115161036969,
-                        "home attack": 77.46919280295737,
-                        "away attack": 74.81265930526074
+                        "player difference": 1.9174878823004617,
+                        "home attack": 77.470123603101,
+                        "away attack": 74.81206447695286
                     }
                 }
             },
@@ -2223,14 +2223,14 @@
                 "tip info": {
                     "margin": 11,
                     "predicted margin": 8.51,
-                    "percentage": 60.5,
+                    "percentage": 60.49,
                     "off by": 2.49,
-                    "Bits": 0.2750070474998698,
+                    "Bits": 0.27476856579986586,
                     "margin source": {
                         "home ground advantage": 0,
-                        "player difference": 1.1675682297674845,
-                        "home attack": 87.1944373113457,
-                        "away attack": 79.84975571232552
+                        "player difference": 1.1604427740201808,
+                        "home attack": 87.19548720342226,
+                        "away attack": 79.849029705829
                     }
                 }
             },
@@ -2243,15 +2243,15 @@
                 "venue": "AO",
                 "tip info": {
                     "margin": -8,
-                    "predicted margin": 29.95,
-                    "percentage": 82.56,
-                    "off by": 37.95,
-                    "Bits": -1.5195280547725232,
+                    "predicted margin": 29.94,
+                    "percentage": 82.55,
+                    "off by": 37.94,
+                    "Bits": -1.518701058452435,
                     "margin source": {
                         "home ground advantage": 6.686802515607505,
-                        "player difference": -3.7305167093387,
-                        "home attack": 102.1300158931223,
-                        "away attack": 75.13568473011097
+                        "player difference": -3.7295450562822436,
+                        "home attack": 102.12584713482956,
+                        "away attack": 75.13867488222486
                     }
                 }
             },
@@ -2264,15 +2264,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": -43,
-                    "predicted margin": 5.89,
-                    "percentage": 57.31,
-                    "off by": 48.89,
-                    "Bits": -0.2280299323018109,
+                    "predicted margin": 5.9,
+                    "percentage": 57.32,
+                    "off by": 48.9,
+                    "Bits": -0.2283679187250247,
                     "margin source": {
                         "home ground advantage": 7.515464502103581,
                         "player difference": -1.3346869296661195,
-                        "home attack": 85.87291506790359,
-                        "away attack": 86.15874651128942
+                        "home attack": 85.87357478796255,
+                        "away attack": 86.1582455622396
                     }
                 }
             },
@@ -2285,15 +2285,15 @@
                 "venue": "UTAS",
                 "tip info": {
                     "margin": 6,
-                    "predicted margin": 8.39,
-                    "percentage": 60.35,
-                    "off by": 2.3900000000000006,
-                    "Bits": 0.27142567609293455,
+                    "predicted margin": 8.38,
+                    "percentage": 60.34,
+                    "off by": 2.380000000000001,
+                    "Bits": 0.27118660159725294,
                     "margin source": {
                         "home ground advantage": 6.980475719809737,
-                        "player difference": 3.871186855512546,
-                        "home attack": 82.91664004704604,
-                        "away attack": 85.38126389172794
+                        "player difference": 3.865248975723132,
+                        "home attack": 82.9161689320036,
+                        "away attack": 85.381550499943
                     }
                 }
             },
@@ -2313,8 +2313,8 @@
                     "margin source": {
                         "home ground advantage": 9.064837887794308,
                         "player difference": -2.4226329031320772,
-                        "home attack": 95.05461108189958,
-                        "away attack": 78.37878031686162
+                        "home attack": 95.05452875093833,
+                        "away attack": 78.37893639189875
                     }
                 }
             },
@@ -2328,14 +2328,14 @@
                 "tip info": {
                     "margin": 3,
                     "predicted margin": 2.02,
-                    "percentage": 47.48,
+                    "percentage": 47.47,
                     "off by": 5.02,
-                    "Bits": -0.07460815990754277,
+                    "Bits": -0.07491204512001715,
                     "margin source": {
                         "home ground advantage": 7.479007068402879,
                         "player difference": -0.4395147568573086,
-                        "home attack": 75.64708049603219,
-                        "away attack": 84.71093328673142
+                        "home attack": 75.64671910672072,
+                        "away attack": 84.7110212023659
                     }
                 }
             },
@@ -2348,15 +2348,15 @@
                 "venue": "SCG",
                 "tip info": {
                     "margin": 30,
-                    "predicted margin": 26.13,
-                    "percentage": 79.31,
-                    "off by": 3.870000000000001,
-                    "Bits": 0.6655746883286704,
+                    "predicted margin": 26.14,
+                    "percentage": 79.32,
+                    "off by": 3.8599999999999994,
+                    "Bits": 0.6657565826793983,
                     "margin source": {
                         "home ground advantage": 6.827605368107366,
-                        "player difference": 5.08795641613263,
-                        "home attack": 98.21751588397714,
-                        "away attack": 84.00243278296716
+                        "player difference": 5.093894295922043,
+                        "home attack": 98.21723606309183,
+                        "away attack": 84.00319418746551
                     }
                 }
             },
@@ -2369,15 +2369,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -26,
-                    "predicted margin": 13.96,
-                    "percentage": 33.12,
-                    "off by": 12.04,
-                    "Bits": 0.41964675253143346,
+                    "predicted margin": 13.95,
+                    "percentage": 33.13,
+                    "off by": 12.05,
+                    "Bits": 0.41943102243145913,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -1.46548395736081,
-                        "home attack": 79.58853567280156,
-                        "away attack": 92.08012765196476
+                        "player difference": -1.458358501613518,
+                        "home attack": 79.58706895167776,
+                        "away attack": 92.08168066195503
                     }
                 }
             },
@@ -2397,8 +2397,8 @@
                     "margin source": {
                         "home ground advantage": 0.0,
                         "player difference": -2.808956447810603,
-                        "home attack": 86.00909323112614,
-                        "away attack": 77.32946279807543
+                        "home attack": 86.00797630084801,
+                        "away attack": 77.32929724736171
                     }
                 }
             },
@@ -2418,8 +2418,8 @@
                     "margin source": {
                         "home ground advantage": 7.515464502103581,
                         "player difference": 5.299146628068905,
-                        "home attack": 88.4423600204993,
-                        "away attack": 66.7389825344713
+                        "home attack": 88.44167787452558,
+                        "away attack": 66.73943260008586
                     }
                 }
             },
@@ -2432,15 +2432,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": 67,
-                    "predicted margin": 6.19,
-                    "percentage": 57.67,
-                    "off by": 60.81,
-                    "Bits": 0.20589292750767074,
+                    "predicted margin": 6.16,
+                    "percentage": 57.64,
+                    "off by": 60.84,
+                    "Bits": 0.20514224062529818,
                     "margin source": {
                         "home ground advantage": 9.064837887794308,
-                        "player difference": 1.8745773701454966,
-                        "home attack": 81.37801999658448,
-                        "away attack": 86.12965700317598
+                        "player difference": 1.8389500914089891,
+                        "home attack": 81.38084131829117,
+                        "away attack": 86.12413405715844
                     }
                 }
             },
@@ -2454,14 +2454,14 @@
                 "tip info": {
                     "margin": -48,
                     "predicted margin": 21.7,
-                    "percentage": 24.86,
+                    "percentage": 24.87,
                     "off by": 26.3,
-                    "Bits": 0.5876530210923216,
+                    "Bits": 0.5874610073779383,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -1.8040008013555173,
-                        "home attack": 74.36594835227257,
-                        "away attack": 94.26390860270801
+                        "player difference": -1.8054852713028617,
+                        "home attack": 74.36837636592885,
+                        "away attack": 94.26079253330678
                     }
                 }
             },
@@ -2474,15 +2474,15 @@
                 "venue": "AO",
                 "tip info": {
                     "margin": -42,
-                    "predicted margin": 15.47,
-                    "percentage": 31.42,
-                    "off by": 26.53,
-                    "Bits": 0.455859809386185,
+                    "predicted margin": 15.48,
+                    "percentage": 31.41,
+                    "off by": 26.52,
+                    "Bits": 0.456070160781307,
                     "margin source": {
                         "home ground advantage": 7.271589397027251,
-                        "player difference": -7.535634715212063,
-                        "home attack": 80.82999973742344,
-                        "away attack": 96.03743916460918
+                        "player difference": -7.549885626706659,
+                        "home attack": 80.83177012270002,
+                        "away attack": 96.03540316315173
                     }
                 }
             },
@@ -2502,8 +2502,8 @@
                     "margin source": {
                         "home ground advantage": 0.0,
                         "player difference": -0.9808242607231663,
-                        "home attack": 65.86031918275374,
-                        "away attack": 109.66806242420576
+                        "home attack": 65.86000322373346,
+                        "away attack": 109.66907968696806
                     }
                 }
             },
@@ -2523,8 +2523,8 @@
                     "margin source": {
                         "home ground advantage": 7.256082750543756,
                         "player difference": 5.035286831529749,
-                        "home attack": 84.04800654886942,
-                        "away attack": 90.04266420614373
+                        "home attack": 84.04769950449463,
+                        "away attack": 90.04293362249216
                     }
                 }
             },
@@ -2543,9 +2543,9 @@
                     "Bits": 0.40968962795325903,
                     "margin source": {
                         "home ground advantage": 6.006295764884293,
-                        "player difference": -0.07627347967596931,
-                        "home attack": 95.96018124661391,
-                        "away attack": 88.33653911052531
+                        "player difference": -0.08339893542326109,
+                        "home attack": 95.96214830705256,
+                        "away attack": 88.33491924159534
                     }
                 }
             },
@@ -2565,8 +2565,8 @@
                     "margin source": {
                         "home ground advantage": 7.775823112997701,
                         "player difference": -7.029212612379821,
-                        "home attack": 84.85945200286444,
-                        "away attack": 94.90260681473276
+                        "home attack": 84.86001040085972,
+                        "away attack": 94.90227417707078
                     }
                 }
             },
@@ -2579,15 +2579,15 @@
                 "venue": "ES",
                 "tip info": {
                     "margin": -27,
-                    "predicted margin": 14.91,
-                    "percentage": 32.05,
-                    "off by": 12.09,
-                    "Bits": 0.44254545610530416,
+                    "predicted margin": 14.92,
+                    "percentage": 32.04,
+                    "off by": 12.08,
+                    "Bits": 0.4427577576347711,
                     "margin source": {
                         "home ground advantage": 5.947122320736386,
-                        "player difference": -4.082001165964416,
-                        "home attack": 80.05261926400736,
-                        "away attack": 96.82641908564938
+                        "player difference": -4.096252077459011,
+                        "home attack": 80.05460068517215,
+                        "away attack": 96.82401322825868
                     }
                 }
             },
@@ -2600,15 +2600,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": 3,
-                    "predicted margin": 34.39,
+                    "predicted margin": 34.4,
                     "percentage": 85.9,
-                    "off by": 31.39,
+                    "off by": 31.4,
                     "Bits": 0.7807300364763766,
                     "margin source": {
                         "home ground advantage": 5.932936724818378,
                         "player difference": -1.9596628424627678,
-                        "home attack": 101.81090657971421,
-                        "away attack": 71.39058379862955
+                        "home attack": 101.81108333828645,
+                        "away attack": 71.38919548991166
                     }
                 }
             },
@@ -2627,9 +2627,9 @@
                     "Bits": 0.7330939811748154,
                     "margin source": {
                         "home ground advantage": 9.064837887794308,
-                        "player difference": 4.397028259681053,
-                        "home attack": 90.67866220025294,
-                        "away attack": 73.50311003691806
+                        "player difference": 4.404153715428346,
+                        "home attack": 90.67783466275502,
+                        "away attack": 73.50381201362556
                     }
                 }
             },
@@ -2642,15 +2642,15 @@
                 "venue": "OS",
                 "tip info": {
                     "margin": 20,
-                    "predicted margin": 16.32,
-                    "percentage": 69.52,
-                    "off by": 3.6799999999999997,
-                    "Bits": 0.4754999872649507,
+                    "predicted margin": 16.34,
+                    "percentage": 69.54,
+                    "off by": 3.66,
+                    "Bits": 0.4759149721781786,
                     "margin source": {
                         "home ground advantage": 10.104183645533443,
-                        "player difference": -3.4264111190557918,
-                        "home attack": 86.69339887684902,
-                        "away attack": 77.04925806528675
+                        "player difference": -3.3919714162771744,
+                        "home attack": 86.68633943418367,
+                        "away attack": 77.05412715571923
                     }
                 }
             },
@@ -2663,15 +2663,15 @@
                 "venue": "G",
                 "tip info": {
                     "margin": 5,
-                    "predicted margin": 36.96,
-                    "percentage": 87.62,
-                    "off by": 31.96,
-                    "Bits": 0.8093321197735014,
+                    "predicted margin": 36.95,
+                    "percentage": 87.61,
+                    "off by": 31.950000000000003,
+                    "Bits": 0.8091674567543315,
                     "margin source": {
                         "home ground advantage": 7.513626632766599,
-                        "player difference": 9.958176566821866,
-                        "home attack": 94.94396009079705,
-                        "away attack": 75.45879878711366
+                        "player difference": 9.949863535116684,
+                        "home attack": 94.94228192094131,
+                        "away attack": 75.45910747717699
                     }
                 }
             },
@@ -2691,8 +2691,8 @@
                     "margin source": {
                         "home ground advantage": 0.0,
                         "player difference": -9.069978997031235,
-                        "home attack": 72.23020028743707,
-                        "away attack": 114.75902770497856
+                        "home attack": 72.22907919932712,
+                        "away attack": 114.761744658884
                     }
                 }
             },
@@ -2705,15 +2705,15 @@
                 "venue": "SCG",
                 "tip info": {
                     "margin": -1,
-                    "predicted margin": 21.75,
-                    "percentage": 75.19,
-                    "off by": 22.75,
-                    "Bits": -1.0110063596570185,
+                    "predicted margin": 21.74,
+                    "percentage": 75.18,
+                    "off by": 22.74,
+                    "Bits": -1.010424979419093,
                     "margin source": {
                         "home ground advantage": 9.724124467071597,
-                        "player difference": 5.984069296748236,
-                        "home attack": 88.53044423469409,
-                        "away attack": 82.48500185492699
+                        "player difference": 5.963880505464214,
+                        "home attack": 88.53382385821864,
+                        "away attack": 82.48052645966422
                     }
                 }
             },
@@ -2726,15 +2726,15 @@
                 "venue": "PFS",
                 "tip info": {
                     "margin": 11,
-                    "predicted margin": 8.37,
-                    "percentage": 39.67,
-                    "off by": 19.369999999999997,
-                    "Bits": -0.3338796974041689,
+                    "predicted margin": 8.39,
+                    "percentage": 39.65,
+                    "off by": 19.39,
+                    "Bits": -0.3346072289581088,
                     "margin source": {
                         "home ground advantage": 0,
-                        "player difference": -1.4085698343619266,
-                        "home attack": 79.48828250391969,
-                        "away attack": 86.44866219126487
+                        "player difference": -1.4299462016038262,
+                        "home attack": 79.48964020335491,
+                        "away attack": 86.44783354864276
                     }
                 }
             },
@@ -2748,14 +2748,14 @@
                 "tip info": {
                     "margin": 16,
                     "predicted margin": 1.35,
-                    "percentage": 48.31,
+                    "percentage": 48.32,
                     "off by": 17.35,
-                    "Bits": -0.04960624211737241,
+                    "Bits": -0.0493076402243704,
                     "margin source": {
                         "home ground advantage": 7.256082750543756,
-                        "player difference": -6.446682129305428,
-                        "home attack": 84.00615706876759,
-                        "away attack": 86.16686038209755
+                        "player difference": -6.441677344911485,
+                        "home attack": 84.00617298823369,
+                        "away attack": 86.16663197375783
                     }
                 }
             },
@@ -2774,9 +2774,9 @@
                     "Bits": -0.33934514796477155,
                     "margin source": {
                         "home ground advantage": -6.006295764884293,
-                        "player difference": -4.252512366780239,
-                        "home attack": 91.66618790967183,
-                        "away attack": 89.90852566851297
+                        "player difference": -4.251324790822362,
+                        "home attack": 91.66706608560845,
+                        "away attack": 89.90845626799877
                     }
                 }
             },
@@ -2796,8 +2796,8 @@
                     "margin source": {
                         "home ground advantage": 6.683420749639706,
                         "player difference": 5.196521359898927,
-                        "home attack": 81.78239372035998,
-                        "away attack": 84.93427965914044
+                        "home attack": 81.78233069751869,
+                        "away attack": 84.93408985199267
                     }
                 }
             },
@@ -2816,9 +2816,9 @@
                     "Bits": 0.8723165857503631,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -8.965978802217359,
-                        "home attack": 72.81257896390798,
-                        "away attack": 107.77062500570912
+                        "player difference": -8.966892322184973,
+                        "home attack": 72.81402277045783,
+                        "away attack": 107.76817449256532
                     }
                 }
             },
@@ -2837,9 +2837,9 @@
                     "Bits": 0.29419430975931804,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": -2.5819443630822203,
-                        "home attack": 76.62765642849357,
-                        "away attack": 92.29979462007844
+                        "player difference": -2.58313193904011,
+                        "home attack": 76.6276614059159,
+                        "away attack": 92.30023523531419
                     }
                 }
             },
@@ -2852,15 +2852,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -12,
-                    "predicted margin": 13.7,
-                    "percentage": 66.59,
-                    "off by": 25.7,
-                    "Bits": -0.5816481122144794,
+                    "predicted margin": 13.72,
+                    "percentage": 66.61,
+                    "off by": 25.72,
+                    "Bits": -0.5825120014863339,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 1.6495734561655222,
-                        "home attack": 92.91550837501602,
-                        "away attack": 80.86155296761754
+                        "player difference": 1.66382436766013,
+                        "home attack": 92.9167252737274,
+                        "away attack": 80.86135480291536
                     }
                 }
             },
@@ -2873,15 +2873,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": 4,
-                    "predicted margin": 25.55,
-                    "percentage": 21.21,
-                    "off by": 29.55,
-                    "Bits": -1.2371834740188943,
+                    "predicted margin": 25.56,
+                    "percentage": 21.2,
+                    "off by": 29.56,
+                    "Bits": -1.2378638300988878,
                     "margin source": {
                         "home ground advantage": 7.479007068402879,
                         "player difference": -6.636791649974151,
-                        "home attack": 71.76189516374475,
-                        "away attack": 98.15422800809021
+                        "home attack": 71.76009180648576,
+                        "away attack": 98.15745073052543
                     }
                 }
             },
@@ -2894,15 +2894,15 @@
                 "venue": "AO",
                 "tip info": {
                     "margin": 48,
-                    "predicted margin": 9.0,
+                    "predicted margin": 9.01,
                     "percentage": 38.91,
-                    "off by": 57.0,
+                    "off by": 57.01,
                     "Bits": -0.36178711457659385,
                     "margin source": {
                         "home ground advantage": 6.683420749639706,
                         "player difference": -3.9462347028953566,
-                        "home attack": 84.56087456768391,
-                        "away attack": 96.30048534804524
+                        "home attack": 84.55985545518313,
+                        "away attack": 96.3025088323165
                     }
                 }
             },
@@ -2921,9 +2921,9 @@
                     "Bits": 0.21312950000748,
                     "margin source": {
                         "home ground advantage": 6.006295764884293,
-                        "player difference": 2.3355623344394356,
-                        "home attack": 84.57354227253664,
-                        "away attack": 86.49486350043007
+                        "player difference": 2.3426877901867393,
+                        "home attack": 84.57238630383523,
+                        "away attack": 86.4964037748436
                     }
                 }
             },
@@ -2936,15 +2936,15 @@
                 "venue": "ES",
                 "tip info": {
                     "margin": 12,
-                    "predicted margin": 13.31,
-                    "percentage": 33.86,
-                    "off by": 25.310000000000002,
-                    "Bits": -0.5623461216538077,
+                    "predicted margin": 13.32,
+                    "percentage": 33.85,
+                    "off by": 25.32,
+                    "Bits": -0.5627722610870902,
                     "margin source": {
                         "home ground advantage": 6.741814646696775,
-                        "player difference": -5.664516897808248,
-                        "home attack": 82.58459801494028,
-                        "away attack": 96.97288083659302
+                        "player difference": -5.670850636250283,
+                        "home attack": 82.5839616993709,
+                        "away attack": 96.97310898253244
                     }
                 }
             },
@@ -2957,15 +2957,15 @@
                 "venue": "OS",
                 "tip info": {
                     "margin": 51,
-                    "predicted margin": 52.9,
-                    "percentage": 95.1,
-                    "off by": 1.8999999999999986,
-                    "Bits": 0.9275172461984763,
+                    "predicted margin": 52.91,
+                    "percentage": 95.11,
+                    "off by": 1.9099999999999966,
+                    "Bits": 0.9276689411716342,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": 7.732521611304881,
-                        "home attack": 104.80324263656533,
-                        "away attack": 68.70348181910609
+                        "player difference": 7.766197872396277,
+                        "home attack": 104.79045431542373,
+                        "away attack": 68.71062743723338
                     }
                 }
             },
@@ -2978,15 +2978,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": 54,
-                    "predicted margin": 32.34,
+                    "predicted margin": 32.35,
                     "percentage": 84.42,
-                    "off by": 21.659999999999997,
+                    "off by": 21.65,
                     "Bits": 0.7556567344082397,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": 4.193118640150692,
-                        "home attack": 90.68235350493735,
-                        "away attack": 71.60062118298278
+                        "player difference": 4.2014316718558735,
+                        "home attack": 90.6815846321144,
+                        "away attack": 71.60012990921783
                     }
                 }
             },
@@ -2999,15 +2999,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": 2,
-                    "predicted margin": 20.77,
-                    "percentage": 25.79,
-                    "off by": 22.77,
-                    "Bits": -0.9551163217602352,
+                    "predicted margin": 20.78,
+                    "percentage": 25.78,
+                    "off by": 22.78,
+                    "Bits": -0.9556758311877982,
                     "margin source": {
                         "home ground advantage": 6.753360764229724,
-                        "player difference": -5.781119762976022,
-                        "home attack": 73.14232620333783,
-                        "away attack": 94.888238456272
+                        "player difference": -5.795370674470618,
+                        "home attack": 73.1440979235678,
+                        "away attack": 94.88568526739351
                     }
                 }
             },
@@ -3027,8 +3027,8 @@
                     "margin source": {
                         "home ground advantage": 7.775823112997701,
                         "player difference": 2.203800546184101,
-                        "home attack": 99.42604983522988,
-                        "away attack": 85.24244305540235
+                        "home attack": 99.42594677479794,
+                        "away attack": 85.2421528094017
                     }
                 }
             },
@@ -3041,15 +3041,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -20,
-                    "predicted margin": 2.92,
-                    "percentage": 46.36,
-                    "off by": 17.08,
-                    "Bits": 0.10138114235502449,
+                    "predicted margin": 2.93,
+                    "percentage": 46.35,
+                    "off by": 17.07,
+                    "Bits": 0.10165007609443477,
                     "margin source": {
                         "home ground advantage": 6.006295764884293,
-                        "player difference": -2.592963840258776,
-                        "home attack": 88.01884687939862,
-                        "away attack": 94.34926449864179
+                        "player difference": -2.601276871963958,
+                        "home attack": 88.01932837103523,
+                        "away attack": 94.35029292572091
                     }
                 }
             },
@@ -3062,15 +3062,15 @@
                 "venue": "UTAS",
                 "tip info": {
                     "margin": 13,
-                    "predicted margin": 0.93,
-                    "percentage": 51.17,
-                    "off by": 12.07,
-                    "Bits": 0.033370138460592225,
+                    "predicted margin": 0.92,
+                    "percentage": 51.14,
+                    "off by": 12.08,
+                    "Bits": 0.032524065692199344,
                     "margin source": {
                         "home ground advantage": 9.343573542954177,
-                        "player difference": 3.621729663303541,
-                        "home attack": 74.29768432216248,
-                        "away attack": 86.3288690528611
+                        "player difference": 3.588477536482814,
+                        "home attack": 74.30466169821982,
+                        "away attack": 86.32012011409343
                     }
                 }
             },
@@ -3089,9 +3089,9 @@
                     "Bits": 0.9472547009680283,
                     "margin source": {
                         "home ground advantage": 6.753360764229724,
-                        "player difference": 9.655144840352259,
-                        "home attack": 111.74586974809358,
-                        "away attack": 70.58880610785135
+                        "player difference": 9.669395751846855,
+                        "home attack": 111.74249524392789,
+                        "away attack": 70.5912834192362
                     }
                 }
             },
@@ -3110,9 +3110,9 @@
                     "Bits": -0.3346072289581088,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -6.947233803601723,
-                        "home attack": 91.15580293272326,
-                        "away attack": 92.59811394638685
+                        "player difference": -6.9484213795596,
+                        "home attack": 91.15696697649163,
+                        "away attack": 92.59762145637326
                     }
                 }
             },
@@ -3132,8 +3132,8 @@
                     "margin source": {
                         "home ground advantage": 6.683420749639706,
                         "player difference": -3.9643890573366765,
-                        "home attack": 83.0516417697395,
-                        "away attack": 76.57673897399872
+                        "home attack": 83.05109246793128,
+                        "away attack": 76.57704824210866
                     }
                 }
             },
@@ -3146,15 +3146,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": 17,
-                    "predicted margin": 0.63,
-                    "percentage": 50.79,
-                    "off by": 16.37,
-                    "Bits": 0.02261637906734859,
+                    "predicted margin": 0.64,
+                    "percentage": 50.8,
+                    "off by": 16.36,
+                    "Bits": 0.02290040211007882,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -4.941629515778346,
-                        "home attack": 84.33106101842755,
-                        "away attack": 78.75501915225017
+                        "player difference": -4.9380667879047,
+                        "home attack": 84.3309445424053,
+                        "away attack": 78.75425323997459
                     }
                 }
             },
@@ -3168,14 +3168,14 @@
                 "tip info": {
                     "margin": 14,
                     "predicted margin": 4.28,
-                    "percentage": 44.67,
+                    "percentage": 44.68,
                     "off by": 18.28,
-                    "Bits": -0.1626218402461932,
+                    "Bits": -0.16229890906613464,
                     "margin source": {
                         "home ground advantage": 0,
                         "player difference": 1.777944751427105,
-                        "home attack": 83.03441905270317,
-                        "away attack": 89.09313756992667
+                        "home attack": 83.03684365199618,
+                        "away attack": 89.09123931361576
                     }
                 }
             },
@@ -3188,15 +3188,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -24,
-                    "predicted margin": 20.51,
-                    "percentage": 26.06,
-                    "off by": 3.4899999999999984,
-                    "Bits": 0.5644269486377939,
+                    "predicted margin": 20.5,
+                    "percentage": 26.07,
+                    "off by": 3.5,
+                    "Bits": 0.5642318184500494,
                     "margin source": {
                         "home ground advantage": 6.741814646696775,
-                        "player difference": -7.59389897685787,
-                        "home attack": 77.93005561201655,
-                        "away attack": 97.58719308820018
+                        "player difference": -7.587441532586894,
+                        "home attack": 77.93288401224261,
+                        "away attack": 97.58506238133664
                     }
                 }
             },
@@ -3216,8 +3216,8 @@
                     "margin source": {
                         "home ground advantage": 10.08771584436931,
                         "player difference": -6.381311339942671,
-                        "home attack": 74.38656553152951,
-                        "away attack": 111.77171523478289
+                        "home attack": 74.38707309166622,
+                        "away attack": 111.77157919465232
                     }
                 }
             },
@@ -3236,9 +3236,9 @@
                     "Bits": 0.0017301961388825893,
                     "margin source": {
                         "home ground advantage": 6.683420749639706,
-                        "player difference": 2.6906182736899353,
-                        "home attack": 77.49590855137224,
-                        "away attack": 86.9210918771085
+                        "player difference": 2.697743729437239,
+                        "home attack": 77.49539099866622,
+                        "away attack": 86.92202693619417
                     }
                 }
             },
@@ -3257,9 +3257,9 @@
                     "Bits": 0.1839628348425949,
                     "margin source": {
                         "home ground advantage": 6.719704578130555,
-                        "player difference": 2.7484967879555358,
-                        "home attack": 84.92203605094203,
-                        "away attack": 88.91110454889461
+                        "player difference": 2.750243223187711,
+                        "home attack": 84.9214544891417,
+                        "away attack": 88.91175608597956
                     }
                 }
             },
@@ -3279,8 +3279,8 @@
                     "margin source": {
                         "home ground advantage": 9.064837887794308,
                         "player difference": 9.05287798574387,
-                        "home attack": 83.03169868982509,
-                        "away attack": 72.85795877664694
+                        "home attack": 83.03202211657162,
+                        "away attack": 72.858146867744
                     }
                 }
             },
@@ -3294,14 +3294,14 @@
                 "tip info": {
                     "margin": 66,
                     "predicted margin": 0.23,
-                    "percentage": 49.71,
+                    "percentage": 49.72,
                     "off by": 66.23,
-                    "Bits": -0.008391991606841342,
+                    "Bits": -0.008101798496964463,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 0.02168243840564176,
-                        "home attack": 83.68398795428321,
-                        "away attack": 83.93990324527675
+                        "player difference": 0.022870014363531813,
+                        "home attack": 83.68693818043663,
+                        "away attack": 83.93798042306058
                     }
                 }
             },
@@ -3314,15 +3314,15 @@
                 "venue": "GMHBA",
                 "tip info": {
                     "margin": -47,
-                    "predicted margin": 3.07,
+                    "predicted margin": 3.08,
                     "percentage": 53.83,
-                    "off by": 50.07,
+                    "off by": 50.08,
                     "Bits": -0.11497236250008291,
                     "margin source": {
                         "home ground advantage": 6.003532106321969,
-                        "player difference": -0.7437242056603365,
-                        "home attack": 89.85320985301799,
-                        "away attack": 92.03975243856632
+                        "player difference": -0.7354111739551547,
+                        "home attack": 89.85035996608055,
+                        "away attack": 92.04342536509513
                     }
                 }
             },
@@ -3335,15 +3335,15 @@
                 "venue": "AO",
                 "tip info": {
                     "margin": 41,
-                    "predicted margin": 37.43,
+                    "predicted margin": 37.42,
                     "percentage": 87.91,
-                    "off by": 3.5700000000000003,
+                    "off by": 3.5799999999999983,
                     "Bits": 0.8140991902745535,
                     "margin source": {
                         "home ground advantage": 6.686802515607505,
-                        "player difference": 7.579675696147828,
-                        "home attack": 100.28935201974251,
-                        "away attack": 77.12850680134558
+                        "player difference": 7.578117002703109,
+                        "home attack": 100.28711959125285,
+                        "away attack": 77.1310669618156
                     }
                 }
             },
@@ -3356,15 +3356,15 @@
                 "venue": "G",
                 "tip info": {
                     "margin": 2,
-                    "predicted margin": 4.36,
+                    "predicted margin": 4.37,
                     "percentage": 44.57,
-                    "off by": 6.36,
+                    "off by": 6.37,
                     "Bits": -0.16585513393679507,
                     "margin source": {
                         "home ground advantage": 6.775170078188783,
-                        "player difference": -3.6235204524463884,
-                        "home attack": 93.24963695316526,
-                        "away attack": 100.76266841591922
+                        "player difference": -3.637771363940984,
+                        "home attack": 93.25325157143563,
+                        "away attack": 100.75918887234269
                     }
                 }
             },
@@ -3377,15 +3377,15 @@
                 "venue": "OS",
                 "tip info": {
                     "margin": 50,
-                    "predicted margin": 23.91,
-                    "percentage": 77.27,
-                    "off by": 26.09,
-                    "Bits": 0.6279803030659545,
+                    "predicted margin": 23.92,
+                    "percentage": 77.28,
+                    "off by": 26.08,
+                    "Bits": 0.6281669992863239,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": 5.239305696544074,
-                        "home attack": 84.78550609085747,
-                        "away attack": 75.18389375203955
+                        "player difference": 5.265432367617509,
+                        "home attack": 84.77649789433067,
+                        "away attack": 75.19041552740401
                     }
                 }
             },
@@ -3404,9 +3404,9 @@
                     "Bits": 0.8574237087323071,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 8.299226077148656,
-                        "home attack": 109.06718386789942,
-                        "away attack": 75.29001214037226
+                        "player difference": 8.300413653106547,
+                        "home attack": 109.06722692242687,
+                        "away attack": 75.29012189997174
                     }
                 }
             },
@@ -3425,9 +3425,9 @@
                     "Bits": -0.4165771953064039,
                     "margin source": {
                         "home ground advantage": 6.683420749639706,
-                        "player difference": 2.3923474600457113,
-                        "home attack": 94.18229981097753,
-                        "away attack": 93.03893099753965
+                        "player difference": 2.3935350360036014,
+                        "home attack": 94.1820828401341,
+                        "away attack": 93.03877915580506
                     }
                 }
             },
@@ -3440,15 +3440,15 @@
                 "venue": "BA",
                 "tip info": {
                     "margin": -40,
-                    "predicted margin": 24.49,
+                    "predicted margin": 24.5,
                     "percentage": 22.18,
-                    "off by": 15.510000000000002,
+                    "off by": 15.5,
                     "Bits": 0.6382128854234063,
                     "margin source": {
                         "home ground advantage": 6.602375837697134,
-                        "player difference": -4.249939763389526,
-                        "home attack": 74.4446215699242,
-                        "away attack": 101.29103147067006
+                        "player difference": -4.258252795094708,
+                        "home attack": 74.44703578515605,
+                        "away attack": 101.28822941490168
                     }
                 }
             },
@@ -3468,8 +3468,8 @@
                     "margin source": {
                         "home ground advantage": 0,
                         "player difference": 4.775207142433666,
-                        "home attack": 83.61862684998559,
-                        "away attack": 96.62632647340628
+                        "home attack": 83.62033505198379,
+                        "away attack": 96.62469944557606
                     }
                 }
             },
@@ -3483,14 +3483,14 @@
                 "tip info": {
                     "margin": 53,
                     "predicted margin": 1.42,
-                    "percentage": 48.23,
+                    "percentage": 48.22,
                     "off by": 54.42,
-                    "Bits": -0.051997284787554054,
+                    "Bits": -0.05229644394692334,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -4.679511109155033,
-                        "home attack": 80.59070703629737,
-                        "away attack": 77.33132247222252
+                        "player difference": -4.686636564902325,
+                        "home attack": 80.59234040052263,
+                        "away attack": 77.3301613899947
                     }
                 }
             },
@@ -3509,9 +3509,9 @@
                     "Bits": -0.0752159943555013,
                     "margin source": {
                         "home ground advantage": 6.741814646696775,
-                        "player difference": -5.9008460225843455,
-                        "home attack": 82.2758931725299,
-                        "away attack": 81.08056905371527
+                        "player difference": -5.894182401931771,
+                        "home attack": 82.27383801106565,
+                        "away attack": 81.08125447024614
                     }
                 }
             },
@@ -3524,15 +3524,15 @@
                 "venue": "OS",
                 "tip info": {
                     "margin": 35,
-                    "predicted margin": 46.78,
-                    "percentage": 92.83,
-                    "off by": 11.780000000000001,
-                    "Bits": 0.8926630235787048,
+                    "predicted margin": 46.79,
+                    "percentage": 92.84,
+                    "off by": 11.79,
+                    "Bits": 0.8928184277950331,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 9.675389869797344,
-                        "home attack": 104.20045153802278,
-                        "away attack": 67.09675253200786
+                        "player difference": 9.709829572575961,
+                        "home attack": 104.18890426314618,
+                        "away attack": 67.10463027398984
                     }
                 }
             },
@@ -3546,14 +3546,14 @@
                 "tip info": {
                     "margin": 26,
                     "predicted margin": 18.58,
-                    "percentage": 71.95,
+                    "percentage": 71.94,
                     "off by": 7.420000000000002,
-                    "Bits": 0.5250665920782109,
+                    "Bits": 0.5248660645859302,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 3.6465103317944605,
-                        "home attack": 99.67271446851872,
-                        "away attack": 84.73519777680863
+                        "player difference": 3.6446241817436955,
+                        "home attack": 99.66976506731498,
+                        "away attack": 84.7391267261176
                     }
                 }
             },
@@ -3566,15 +3566,15 @@
                 "venue": "SCG",
                 "tip info": {
                     "margin": -39,
-                    "predicted margin": 9.77,
+                    "predicted margin": 9.78,
                     "percentage": 62.01,
-                    "off by": 48.769999999999996,
+                    "off by": 48.78,
                     "Bits": -0.39630838288442694,
                     "margin source": {
                         "home ground advantage": 6.753360764229724,
-                        "player difference": -1.1110672764754463,
-                        "home attack": 92.29140223844024,
-                        "away attack": 88.16237127979595
+                        "player difference": -1.0968163649808385,
+                        "home attack": 92.28722659931472,
+                        "away attack": 88.1675929184924
                     }
                 }
             },
@@ -3588,14 +3588,14 @@
                 "tip info": {
                     "margin": -66,
                     "predicted margin": 2.24,
-                    "percentage": 52.8,
+                    "percentage": 52.79,
                     "off by": 68.24,
-                    "Bits": -0.08314123530024586,
+                    "Bits": -0.0828356119454563,
                     "margin source": {
                         "home ground advantage": 6.686802515607505,
-                        "player difference": -5.456243396618778,
-                        "home attack": 85.1537159615945,
-                        "away attack": 84.14133207814302
+                        "player difference": -5.457430972576657,
+                        "home attack": 85.15314980607786,
+                        "away attack": 84.1414201859323
                     }
                 }
             },
@@ -3608,15 +3608,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": 51,
-                    "predicted margin": 24.7,
+                    "predicted margin": 24.69,
                     "percentage": 78.01,
-                    "off by": 26.3,
+                    "off by": 26.31,
                     "Bits": 0.6417309781347469,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 5.99919464756373,
-                        "home attack": 91.67870034749403,
-                        "away attack": 72.97798126915852
+                        "player difference": 5.990881615858548,
+                        "home attack": 91.68035919662906,
+                        "away attack": 72.97646595082546
                     }
                 }
             },
@@ -3636,8 +3636,8 @@
                     "margin source": {
                         "home ground advantage": 10.104183645533443,
                         "player difference": -9.088653930509619,
-                        "home attack": 74.08190161229935,
-                        "away attack": 92.98533653748565
+                        "home attack": 74.08249192662012,
+                        "away attack": 92.98701275191787
                     }
                 }
             },
@@ -3656,9 +3656,9 @@
                     "Bits": -0.19958668736124263,
                     "margin source": {
                         "home ground advantage": 5.932936724818378,
-                        "player difference": -4.30765244257451,
-                        "home attack": 82.43328560250407,
-                        "away attack": 89.25562943789234
+                        "player difference": -4.309829665163967,
+                        "home attack": 82.43278887680552,
+                        "away attack": 89.25723317323455
                     }
                 }
             },
@@ -3671,15 +3671,15 @@
                 "venue": "GMHBA",
                 "tip info": {
                     "margin": 5,
-                    "predicted margin": 15.31,
+                    "predicted margin": 15.32,
                     "percentage": 68.4,
-                    "off by": 10.31,
+                    "off by": 10.32,
                     "Bits": 0.45206823022381093,
                     "margin source": {
                         "home ground advantage": 6.653930691497833,
-                        "player difference": 4.487510237424547,
-                        "home attack": 90.46023896647458,
-                        "away attack": 86.28959290837132
+                        "player difference": 4.495823269129729,
+                        "home attack": 90.45745594283622,
+                        "away attack": 86.29207419845568
                     }
                 }
             },
@@ -3698,9 +3698,9 @@
                     "Bits": -0.6808445421752973,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": -4.156383899707414,
-                        "home attack": 87.54920675764272,
-                        "away attack": 99.07210637516991
+                        "player difference": -4.157571475665304,
+                        "home attack": 87.54825254107737,
+                        "away attack": 99.07364632684056
                     }
                 }
             },
@@ -3714,14 +3714,14 @@
                 "tip info": {
                     "margin": 112,
                     "predicted margin": 3.77,
-                    "percentage": 45.31,
+                    "percentage": 45.3,
                     "off by": 115.77,
-                    "Bits": -0.14209860403606034,
+                    "Bits": -0.14241704461585214,
                     "margin source": {
                         "home ground advantage": 7.271589397027251,
-                        "player difference": -3.525164329764755,
-                        "home attack": 85.31896735693766,
-                        "away attack": 92.83229199717742
+                        "player difference": -3.5394152412593507,
+                        "home attack": 85.32320349197258,
+                        "away attack": 92.82819236392204
                     }
                 }
             },
@@ -3735,14 +3735,14 @@
                 "tip info": {
                     "margin": 2,
                     "predicted margin": 3.51,
-                    "percentage": 45.62,
+                    "percentage": 45.63,
                     "off by": 5.51,
-                    "Bits": -0.132261648237312,
+                    "Bits": -0.13194544110379636,
                     "margin source": {
                         "home ground advantage": 6.463923289388779,
-                        "player difference": 0.25327239113906025,
-                        "home attack": 79.44278580941639,
-                        "away attack": 89.67385630007095
+                        "player difference": 0.2536474151257566,
+                        "home attack": 79.44336183867341,
+                        "away attack": 89.67268074434749
                     }
                 }
             },
@@ -3755,15 +3755,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": 1,
-                    "predicted margin": 18.05,
-                    "percentage": 28.61,
-                    "off by": 19.05,
-                    "Bits": -0.8054085972262663,
+                    "predicted margin": 18.07,
+                    "percentage": 28.59,
+                    "off by": 19.07,
+                    "Bits": -0.8064174749183515,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": -4.043291816675605,
-                        "home attack": 75.5776532462248,
-                        "away attack": 98.65779839939384
+                        "player difference": -4.077731519454223,
+                        "home attack": 75.58632899428419,
+                        "away attack": 98.64842573055638
                     }
                 }
             },
@@ -3783,8 +3783,8 @@
                     "margin source": {
                         "home ground advantage": 7.515464502103581,
                         "player difference": -3.5199006943519553,
-                        "home attack": 75.87840514043393,
-                        "away attack": 89.89838246478524
+                        "home attack": 75.87845968671277,
+                        "away attack": 89.89819587670664
                     }
                 }
             },
@@ -3798,14 +3798,14 @@
                 "tip info": {
                     "margin": 3,
                     "predicted margin": 22.24,
-                    "percentage": 75.66,
+                    "percentage": 75.67,
                     "off by": 19.24,
-                    "Bits": 0.5976026814999265,
+                    "Bits": 0.597793350242805,
                     "margin source": {
                         "home ground advantage": 6.750615492829974,
-                        "player difference": 4.029282640294358,
-                        "home attack": 97.03735547246713,
-                        "away attack": 85.58034710828522
+                        "player difference": 4.043533551788967,
+                        "home attack": 97.03434070207128,
+                        "away attack": 85.58444748760061
                     }
                 }
             },
@@ -3818,15 +3818,15 @@
                 "venue": "G",
                 "tip info": {
                     "margin": -18,
-                    "predicted margin": 27.55,
-                    "percentage": 80.56,
-                    "off by": 45.55,
-                    "Bits": -1.3628998759436683,
+                    "predicted margin": 27.53,
+                    "percentage": 80.55,
+                    "off by": 45.53,
+                    "Bits": -1.3621579396758952,
                     "margin source": {
                         "home ground advantage": 6.773456731413641,
-                        "player difference": -2.323046806405299,
-                        "home attack": 103.17419398053768,
-                        "away attack": 80.07479359582705
+                        "player difference": -2.3364070359314835,
+                        "home attack": 103.17288306578419,
+                        "away attack": 80.07549437861321
                     }
                 }
             },
@@ -3846,8 +3846,8 @@
                     "margin source": {
                         "home ground advantage": 9.404107266655512,
                         "player difference": 0.048176849433783045,
-                        "home attack": 79.59528909300123,
-                        "away attack": 88.33970358829686
+                        "home attack": 79.5957513995357,
+                        "away attack": 88.34098916369496
                     }
                 }
             },
@@ -3860,15 +3860,15 @@
                 "venue": "OS",
                 "tip info": {
                     "margin": -11,
-                    "predicted margin": 6.94,
-                    "percentage": 58.59,
-                    "off by": 17.94,
-                    "Bits": -0.2719488921795712,
+                    "predicted margin": 6.93,
+                    "percentage": 58.58,
+                    "off by": 17.93,
+                    "Bits": -0.2716005413289375,
                     "margin source": {
                         "home ground advantage": 9.009532913759966,
-                        "player difference": -7.6275425703789,
-                        "home attack": 89.35670257778358,
-                        "away attack": 83.80063664268911
+                        "player difference": -7.615666810800059,
+                        "home attack": 89.34820089400256,
+                        "away attack": 83.81034879263265
                     }
                 }
             },
@@ -3882,14 +3882,14 @@
                 "tip info": {
                     "margin": -1,
                     "predicted margin": 3.85,
-                    "percentage": 54.8,
+                    "percentage": 54.79,
                     "off by": 4.85,
-                    "Bits": -0.14560532224689915,
+                    "Bits": -0.145286177230469,
                     "margin source": {
                         "home ground advantage": 7.479007068402879,
                         "player difference": 0.3847552638786843,
-                        "home attack": 83.09472357814052,
-                        "away attack": 87.1044118252161
+                        "home attack": 83.09310332131246,
+                        "away attack": 87.10751080432603
                     }
                 }
             },
@@ -3902,15 +3902,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -2,
-                    "predicted margin": 17.61,
-                    "percentage": 29.09,
-                    "off by": 15.61,
-                    "Bits": 0.504061001309293,
+                    "predicted margin": 17.6,
+                    "percentage": 29.1,
+                    "off by": 15.600000000000001,
+                    "Bits": 0.503857532577429,
                     "margin source": {
                         "home ground advantage": 6.686802515607505,
-                        "player difference": -4.476176041421101,
-                        "home attack": 74.23919881825438,
-                        "away attack": 94.05655376391364
+                        "player difference": -4.467863009715919,
+                        "home attack": 74.23769918575744,
+                        "away attack": 94.05757600611014
                     }
                 }
             },
@@ -3923,15 +3923,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -74,
-                    "predicted margin": 1.14,
-                    "percentage": 48.58,
-                    "off by": 72.86,
-                    "Bits": 0.04040151528420666,
+                    "predicted margin": 1.15,
+                    "percentage": 48.56,
+                    "off by": 72.85,
+                    "Bits": 0.04096254777849784,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 2.073751227788977,
-                        "home attack": 86.90206494085686,
-                        "away attack": 90.11564705374705
+                        "player difference": 2.063063044168027,
+                        "home attack": 86.90149488824177,
+                        "away attack": 90.11588224001078
                     }
                 }
             },
@@ -3944,15 +3944,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": -48,
-                    "predicted margin": 21.69,
-                    "percentage": 24.87,
-                    "off by": 26.31,
-                    "Bits": 0.5874610073779383,
+                    "predicted margin": 21.68,
+                    "percentage": 24.88,
+                    "off by": 26.32,
+                    "Bits": 0.587268968104325,
                     "margin source": {
                         "home ground advantage": -5.932936724818378,
-                        "player difference": -3.6112055639509415,
-                        "home attack": 72.89604220222778,
-                        "away attack": 85.04539015723967
+                        "player difference": -3.6040801082036373,
+                        "home attack": 72.89711469632583,
+                        "away attack": 85.04469516589506
                     }
                 }
             },
@@ -3972,8 +3972,8 @@
                     "margin source": {
                         "home ground advantage": 6.683420749639706,
                         "player difference": -1.451507645618383,
-                        "home attack": 76.24269032406075,
-                        "away attack": 99.97584444150063
+                        "home attack": 76.24214371218066,
+                        "away attack": 99.97719931162649
                     }
                 }
             },
@@ -3987,14 +3987,14 @@
                 "tip info": {
                     "margin": -39,
                     "predicted margin": 2.49,
-                    "percentage": 46.9,
+                    "percentage": 46.89,
                     "off by": 36.51,
-                    "Bits": 0.08678376614206662,
+                    "Bits": 0.08705543454337572,
                     "margin source": {
                         "home ground advantage": 6.753360764229724,
-                        "player difference": 0.5743647084344257,
-                        "home attack": 85.04924775110871,
-                        "away attack": 94.86312163322341
+                        "player difference": 0.5601137969398179,
+                        "home attack": 85.05418875800562,
+                        "away attack": 94.85983895582282
                     }
                 }
             },
@@ -4007,15 +4007,15 @@
                 "venue": "PFS",
                 "tip info": {
                     "margin": -54,
-                    "predicted margin": 5.3,
+                    "predicted margin": 5.29,
                     "percentage": 56.58,
-                    "off by": 59.3,
+                    "off by": 59.29,
                     "Bits": -0.20356836893430486,
                     "margin source": {
                         "home ground advantage": 0,
-                        "player difference": 4.769662578537947,
-                        "home attack": 79.3844194529349,
-                        "away attack": 78.85679290638346
+                        "player difference": 4.761349546832765,
+                        "home attack": 79.3862490303467,
+                        "away attack": 78.85417374973056
                     }
                 }
             },
@@ -4029,14 +4029,14 @@
                 "tip info": {
                     "margin": 9,
                     "predicted margin": 11.53,
-                    "percentage": 64.08,
+                    "percentage": 64.09,
                     "off by": 2.5299999999999994,
-                    "Bits": 0.35794605285926084,
+                    "Bits": 0.3581711749695543,
                     "margin source": {
                         "home ground advantage": 9.708163940356563,
-                        "player difference": 9.654089003069355,
-                        "home attack": 79.51755524175546,
-                        "away attack": 87.35394984514154
+                        "player difference": 9.638650515616883,
+                        "home attack": 79.52903701259802,
+                        "away attack": 87.34226101276032
                     }
                 }
             },
@@ -4049,15 +4049,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": 1,
-                    "predicted margin": 20.06,
+                    "predicted margin": 20.07,
                     "percentage": 26.51,
-                    "off by": 21.06,
+                    "off by": 21.07,
                     "Bits": -0.9153914246821906,
                     "margin source": {
                         "home ground advantage": 7.513626632766599,
                         "player difference": -3.1323921469721756,
-                        "home attack": 81.31061690865869,
-                        "away attack": 105.75637590330977
+                        "home attack": 81.30959100056197,
+                        "away attack": 105.75790526511541
                     }
                 }
             },
@@ -4077,8 +4077,8 @@
                     "margin source": {
                         "home ground advantage": 0.0,
                         "player difference": 0.3030668754098295,
-                        "home attack": 94.60634198074644,
-                        "away attack": 80.9934466415571
+                        "home attack": 94.60656246503085,
+                        "away attack": 80.99319846068998
                     }
                 }
             },
@@ -4097,9 +4097,9 @@
                     "Bits": -0.280685112655481,
                     "margin source": {
                         "home ground advantage": 6.003532106321969,
-                        "player difference": -4.8790277670396,
-                        "home attack": 72.741359988518,
-                        "away attack": 81.00851106236883
+                        "player difference": -4.8873407987447814,
+                        "home attack": 72.7442702676207,
+                        "away attack": 81.00527502130879
                     }
                 }
             },
@@ -4112,15 +4112,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": 96,
-                    "predicted margin": 57.35,
+                    "predicted margin": 57.34,
                     "percentage": 96.36,
-                    "off by": 38.65,
+                    "off by": 38.66,
                     "Bits": 0.9465062986890213,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 8.044851931259686,
-                        "home attack": 115.65030247950283,
-                        "away attack": 66.34702641327321
+                        "player difference": 8.038914051470272,
+                        "home attack": 115.65127301629286,
+                        "away attack": 66.34700676455982
                     }
                 }
             },
@@ -4139,9 +4139,9 @@
                     "Bits": 0.8244012785484165,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 6.162521561449844,
-                        "home attack": 102.7252665789753,
-                        "away attack": 70.44994614559907
+                        "player difference": 6.167271865281368,
+                        "home attack": 102.72409557185443,
+                        "away attack": 70.45063356622911
                     }
                 }
             },
@@ -4154,15 +4154,15 @@
                 "venue": "OS",
                 "tip info": {
                     "margin": -65,
-                    "predicted margin": 4.24,
-                    "percentage": 44.72,
-                    "off by": 60.76,
-                    "Bits": 0.14482952083880907,
+                    "predicted margin": 4.22,
+                    "percentage": 44.74,
+                    "off by": 60.78,
+                    "Bits": 0.14430746726304233,
                     "margin source": {
                         "home ground advantage": 9.06849027647583,
-                        "player difference": 2.39266816508195,
-                        "home attack": 83.2744185541554,
-                        "away attack": 98.97572409822864
+                        "player difference": 2.4069190765765454,
+                        "home attack": 83.27521580344583,
+                        "away attack": 98.97548218314847
                     }
                 }
             },
@@ -4182,8 +4182,8 @@
                     "margin source": {
                         "home ground advantage": 0.0,
                         "player difference": -5.861136544925387,
-                        "home attack": 84.01429684693419,
-                        "away attack": 82.50295072796332
+                        "home attack": 84.01317369521527,
+                        "away attack": 82.50354091937488
                     }
                 }
             },
@@ -4196,15 +4196,15 @@
                 "venue": "UTAS",
                 "tip info": {
                     "margin": 124,
-                    "predicted margin": 58.88,
+                    "predicted margin": 58.89,
                     "percentage": 96.73,
-                    "off by": 65.12,
+                    "off by": 65.11,
                     "Bits": 0.952035304007472,
                     "margin source": {
                         "home ground advantage": 6.4403968586176505,
-                        "player difference": 6.341181034553185,
-                        "home attack": 111.15648663810691,
-                        "away attack": 65.05481205292313
+                        "player difference": 6.353056794132012,
+                        "home attack": 111.15507657520094,
+                        "away attack": 65.05517180394106
                     }
                 }
             },
@@ -4217,15 +4217,15 @@
                 "venue": "GMHBA",
                 "tip info": {
                     "margin": 93,
-                    "predicted margin": 50.24,
-                    "percentage": 94.2,
-                    "off by": 42.76,
-                    "Bits": 0.9137989649506962,
+                    "predicted margin": 50.23,
+                    "percentage": 94.19,
+                    "off by": 42.77,
+                    "Bits": 0.9136458044812186,
                     "margin source": {
                         "home ground advantage": 9.009532913759966,
-                        "player difference": 15.224166963404222,
-                        "home attack": 100.90545181252375,
-                        "away attack": 74.90005467658118
+                        "player difference": 15.225354539362106,
+                        "home attack": 100.9024720950369,
+                        "away attack": 74.90373536210657
                     }
                 }
             },
@@ -4238,15 +4238,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -28,
-                    "predicted margin": 11.85,
-                    "percentage": 35.55,
-                    "off by": 16.15,
-                    "Bits": 0.3662522636995641,
+                    "predicted margin": 11.84,
+                    "percentage": 35.56,
+                    "off by": 16.16,
+                    "Bits": 0.3660283991571194,
                     "margin source": {
                         "home ground advantage": 7.477034538039114,
-                        "player difference": -4.985152582182794,
-                        "home attack": 81.11195125326428,
-                        "away attack": 95.4499941489493
+                        "player difference": -4.9780271264354905,
+                        "home attack": 81.1117130765142,
+                        "away attack": 95.45090060210909
                     }
                 }
             },
@@ -4259,15 +4259,15 @@
                 "venue": "G",
                 "tip info": {
                     "margin": 20,
-                    "predicted margin": 32.43,
-                    "percentage": 84.48,
-                    "off by": 12.43,
-                    "Bits": 0.756681739809004,
+                    "predicted margin": 32.42,
+                    "percentage": 84.47,
+                    "off by": 12.420000000000002,
+                    "Bits": 0.7565109561401584,
                     "margin source": {
                         "home ground advantage": 7.513626632766599,
-                        "player difference": -2.4283535155969385,
-                        "home attack": 104.08403611490088,
-                        "away attack": 76.7410074226999
+                        "player difference": -2.4414168511336563,
+                        "home attack": 104.08538886020845,
+                        "away attack": 76.74036113859201
                     }
                 }
             },
@@ -4280,15 +4280,15 @@
                 "venue": "SCG",
                 "tip info": {
                     "margin": 31,
-                    "predicted margin": 11.05,
-                    "percentage": 63.52,
-                    "off by": 19.95,
-                    "Bits": 0.3452828175935083,
+                    "predicted margin": 11.07,
+                    "percentage": 63.54,
+                    "off by": 19.93,
+                    "Bits": 0.3457369951640432,
                     "margin source": {
                         "home ground advantage": 7.271589397027251,
-                        "player difference": -0.035749743369837904,
-                        "home attack": 90.78347689062463,
-                        "away attack": 86.96829993487115
+                        "player difference": -0.008435496338524452,
+                        "home attack": 90.77833174486923,
+                        "away attack": 86.97385671057361
                     }
                 }
             },
@@ -4301,15 +4301,15 @@
                 "venue": "MARS",
                 "tip info": {
                     "margin": 37,
-                    "predicted margin": 29.61,
-                    "percentage": 82.28,
-                    "off by": 7.390000000000001,
-                    "Bits": 0.7186136989754845,
+                    "predicted margin": 29.6,
+                    "percentage": 82.27,
+                    "off by": 7.399999999999999,
+                    "Bits": 0.718438348620861,
                     "margin source": {
                         "home ground advantage": 6.818074343660223,
-                        "player difference": -2.445664600773894,
-                        "home attack": 99.91986023907329,
-                        "away attack": 74.68235670061678
+                        "player difference": -2.4589541412549707,
+                        "home attack": 99.92145337477682,
+                        "away attack": 74.68144407957276
                     }
                 }
             },
@@ -4322,15 +4322,15 @@
                 "venue": "MRVL",
                 "tip info": {
                     "margin": -2,
-                    "predicted margin": 1.56,
-                    "percentage": 51.94,
-                    "off by": 3.56,
-                    "Bits": -0.05709144641958308,
+                    "predicted margin": 1.55,
+                    "percentage": 51.93,
+                    "off by": 3.55,
+                    "Bits": -0.05679129141155381,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 0.32121230624476127,
-                        "home attack": 81.06255332979056,
-                        "away attack": 79.82826856536215
+                        "player difference": 0.3140868504974695,
+                        "home attack": 81.0627340272102,
+                        "away attack": 79.8281067820348
                     }
                 }
             },
@@ -4349,9 +4349,9 @@
                     "Bits": 0.02346828050390537,
                     "margin source": {
                         "home ground advantage": 8.384513929974435,
-                        "player difference": 0.11863439950284756,
-                        "home attack": 79.5787416836826,
-                        "away attack": 88.73887798088775
+                        "player difference": 0.1388231907868571,
+                        "home attack": 79.56870829770781,
+                        "away attack": 88.75182129871209
                     }
                 }
             },
@@ -4370,9 +4370,9 @@
                     "Bits": -0.6188273952832024,
                     "margin source": {
                         "home ground advantage": 6.653930691497833,
-                        "player difference": -5.886228482303972,
-                        "home attack": 94.77648270549723,
-                        "away attack": 81.08966105161869
+                        "player difference": -5.894541514009154,
+                        "home attack": 94.77974918173494,
+                        "away attack": 81.08673102340323
                     }
                 }
             },
@@ -4385,15 +4385,15 @@
                 "venue": "MCG",
                 "tip info": {
                     "margin": -37,
-                    "predicted margin": 9.1,
-                    "percentage": 61.21,
-                    "off by": 46.1,
-                    "Bits": -0.36624331901803875,
+                    "predicted margin": 9.09,
+                    "percentage": 61.2,
+                    "off by": 46.09,
+                    "Bits": -0.3658714424749594,
                     "margin source": {
                         "home ground advantage": 0.0,
-                        "player difference": 2.8555055560645175,
-                        "home attack": 88.72993632713906,
-                        "away attack": 82.48465772530027
+                        "player difference": 2.84362979648569,
+                        "home attack": 88.73239050662715,
+                        "away attack": 82.4824667244788
                     }
                 }
             },
@@ -4407,14 +4407,14 @@
                 "tip info": {
                     "margin": 6,
                     "predicted margin": 13.41,
-                    "percentage": 66.25,
+                    "percentage": 66.26,
                     "off by": 7.41,
-                    "Bits": 0.4059923596758368,
+                    "Bits": 0.40621010853156525,
                     "margin source": {
                         "home ground advantage": 5.947122320736386,
-                        "player difference": -0.9085450901123286,
-                        "home attack": 92.29685615129999,
-                        "away attack": 83.9267922353487
+                        "player difference": -0.8931066026598308,
+                        "home attack": 92.29159535565694,
+                        "away attack": 83.932201757454
                     }
                 }
             },
@@ -4434,8 +4434,8 @@
                     "margin source": {
                         "home ground advantage": 7.513626632766599,
                         "player difference": -5.031948657255076,
-                        "home attack": 100.56259406776815,
-                        "away attack": 81.80224923800674
+                        "home attack": 100.56180209572041,
+                        "away attack": 81.8022187668917
                     }
                 }
             },
@@ -4454,9 +4454,9 @@
                     "Bits": -0.5890077127791047,
                     "margin source": {
                         "home ground advantage": 6.686802515607505,
-                        "player difference": -6.456817847605783,
-                        "home attack": 78.6561951909372,
-                        "away attack": 92.73540614889423
+                        "player difference": -6.459192999521552,
+                        "home attack": 78.65729436694001,
+                        "away attack": 92.73322412802627
                     }
                 }
             },
@@ -4469,60 +4469,85 @@
                 "venue": "ES",
                 "tip info": {
                     "margin": -5,
-                    "predicted margin": 9.86,
-                    "percentage": 37.89,
-                    "off by": 4.859999999999999,
-                    "Bits": 0.3128974728972569,
+                    "predicted margin": 9.85,
+                    "percentage": 37.91,
+                    "off by": 4.85,
+                    "Bits": 0.31243283680921863,
                     "margin source": {
                         "home ground advantage": 6.773456731413641,
-                        "player difference": 6.552330448125492,
-                        "home attack": 76.21268537926744,
-                        "away attack": 99.39397769176038
+                        "player difference": 6.56420620770432,
+                        "home attack": 76.2113414511721,
+                        "away attack": 99.39489052206837
+                    }
+                }
+            },
+            "CD_M20240142701": {
+                "home": "Sydney",
+                "home id": 15,
+                "away": "Port Adelaide",
+                "away id": 12,
+                "round": 27,
+                "venue": "SCG",
+                "tip info": {
+                    "margin": 36,
+                    "predicted margin": 8.68,
+                    "percentage": 60.7,
+                    "off by": 27.32,
+                    "Bits": 0.27976842159359505,
+                    "margin source": {
+                        "home ground advantage": 7.271589397027251,
+                        "player difference": 7.51286941533832,
+                        "home attack": 84.74365929305358,
+                        "away attack": 90.84394785895604
+                    }
+                }
+            },
+            "CD_M20240142702": {
+                "home": "Geelong",
+                "home id": 6,
+                "away": "Brisbane",
+                "away id": 1,
+                "round": 27,
+                "venue": "MCG",
+                "tip info": {
+                    "margin": -10,
+                    "predicted margin": 6.6,
+                    "percentage": 41.82,
+                    "off by": 3.4000000000000004,
+                    "Bits": 0.218595201550857,
+                    "margin source": {
+                        "home ground advantage": 1.5073308678823054,
+                        "player difference": 3.3004298469522153,
+                        "home attack": 89.10239720776617,
+                        "away attack": 100.51089155431973
                     }
                 }
             }
         }
     },
     "predictions": {
-        "CD_M20240142701": {
+        "CD_M20240142801": {
             "home": "Sydney",
             "home id": 15,
-            "away": "Port Adelaide",
-            "away id": 12,
-            "round": 27,
-            "year": 2024,
-            "venue": "SCG",
-            "predicted margin": 8.68,
-            "percentage": 60.7,
-            "margin source": {
-                "home ground advantage": 7.271589397027251,
-                "player difference": 7.495055775970079,
-                "home attack": 84.74953250177347,
-                "away attack": 90.83666758670844
-            }
-        },
-        "CD_M20240142702": {
-            "home": "Geelong",
-            "home id": 6,
             "away": "Brisbane",
             "away id": 1,
-            "round": 27,
+            "round": 28,
             "year": 2024,
             "venue": "MCG",
-            "predicted margin": -6.63,
-            "percentage": 41.79,
+            "predicted margin": -11.52,
+            "percentage": 35.93,
             "margin source": {
-                "home ground advantage": 1.5073308678823054,
-                "player difference": 3.2653963561946653,
-                "home attack": 89.10693169863423,
-                "away attack": 100.50657506439074
+                "home ground advantage": 0.7630111399366253,
+                "player difference": 3.251516996242447,
+                "home attack": 84.32441846751348,
+                "away attack": 99.86113581741694
             }
         }
     },
     "simulation": {
         "0": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Sydney",
             "team id": 15,
             "rank": 0,
@@ -4548,11 +4573,11 @@
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 24.75
+            "flag": 34.16
         },
         "1": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Port Adelaide",
             "team id": 12,
             "rank": 1,
@@ -4578,11 +4603,11 @@
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 10.77
+            "flag": 0.0
         },
         "2": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Geelong",
             "team id": 6,
             "rank": 2,
@@ -4608,11 +4633,11 @@
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 23.89
+            "flag": 0.0
         },
         "3": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "GWS",
             "team id": 8,
             "rank": 3,
@@ -4642,7 +4667,7 @@
         },
         "4": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Brisbane",
             "team id": 1,
             "rank": 4,
@@ -4668,11 +4693,11 @@
                 "16": 0.0,
                 "17": 0.0
             },
-            "flag": 40.59
+            "flag": 65.84
         },
         "5": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Footscray",
             "team id": 17,
             "rank": 5,
@@ -4702,7 +4727,7 @@
         },
         "6": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Hawthorn",
             "team id": 9,
             "rank": 6,
@@ -4732,7 +4757,7 @@
         },
         "7": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Carlton",
             "team id": 2,
             "rank": 7,
@@ -4762,7 +4787,7 @@
         },
         "8": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Collingwood",
             "team id": 3,
             "rank": 8,
@@ -4792,7 +4817,7 @@
         },
         "9": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Fremantle",
             "team id": 5,
             "rank": 9,
@@ -4822,7 +4847,7 @@
         },
         "10": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Essendon",
             "team id": 4,
             "rank": 10,
@@ -4852,7 +4877,7 @@
         },
         "11": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "St Kilda",
             "team id": 14,
             "rank": 11,
@@ -4882,7 +4907,7 @@
         },
         "12": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Gold Coast",
             "team id": 7,
             "rank": 12,
@@ -4912,7 +4937,7 @@
         },
         "13": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Melbourne",
             "team id": 10,
             "rank": 13,
@@ -4942,7 +4967,7 @@
         },
         "14": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Adelaide",
             "team id": 0,
             "rank": 14,
@@ -4972,7 +4997,7 @@
         },
         "15": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "West Coast",
             "team id": 16,
             "rank": 15,
@@ -5002,7 +5027,7 @@
         },
         "16": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "North Melbourne",
             "team id": 11,
             "rank": 16,
@@ -5032,7 +5057,7 @@
         },
         "17": {
             "year": 2024,
-            "round": 26,
+            "round": 27,
             "team": "Richmond",
             "team id": 13,
             "rank": 17,
@@ -5062,23 +5087,23 @@
         }
     },
     "ratings": {
-        "Adelaide": -0.84,
-        "Brisbane": 26.34,
-        "Carlton": 5.91,
-        "Collingwood": 4.77,
-        "Essendon": -7.36,
-        "Fremantle": 5.75,
-        "Geelong": 17.26,
-        "Gold Coast": -3.95,
-        "GWS": 6.15,
-        "Hawthorn": 23.42,
-        "Melbourne": -10.27,
-        "North Melbourne": -47.14,
-        "Port Adelaide": 5.65,
-        "Richmond": -28.43,
-        "St Kilda": 0.08,
-        "Sydney": 12.43,
-        "West Coast": -36.14,
-        "Footscray": 26.39
+        "Adelaide": -1.02,
+        "Brisbane": 26.44,
+        "Carlton": 5.73,
+        "Collingwood": 4.58,
+        "Essendon": -7.52,
+        "Fremantle": 5.56,
+        "Geelong": 18.33,
+        "Gold Coast": -4.12,
+        "GWS": 5.97,
+        "Hawthorn": 23.22,
+        "Melbourne": -10.46,
+        "North Melbourne": -47.29,
+        "Port Adelaide": 7.29,
+        "Richmond": -28.58,
+        "St Kilda": -0.11,
+        "Sydney": 12.07,
+        "West Coast": -36.29,
+        "Footscray": 26.19
     }
 }
